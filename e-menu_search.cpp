@@ -5,6 +5,7 @@
 #include <string>
 #include <chrono>
 #include <iostream>
+#include <map>
 
 using namespace std;
 using namespace std::chrono;
@@ -15,52 +16,57 @@ struct MenuItem {
     string description;
 };
 
-vector<MenuItem> menuList;
+map<string, vector<MenuItem>> databases;
 
-void loadDatabase() {
-    string path = "F:\\semester 3\\aka\\tubes e-menu\\menu_database.txt";
-    ifstream file(path);
+vector<MenuItem> loadFile(string filename) {
+    vector<MenuItem> tempMenu;
+    string basePath = "F:\\semester 3\\aka\\tubes e-menu\\"; 
+    string fullPath = basePath + filename;
     
+    ifstream file(fullPath);
     string line;
+    
     if (file.is_open()) {
         while (getline(file, line)) {
-            if (line.empty()) continue; 
-            
+            if (line.empty()) continue;
             size_t posisiKoma = line.find_last_of(',');
-
             if (posisiKoma != string::npos) {
                 string nama = line.substr(0, posisiKoma);
                 string hargaStr = line.substr(posisiKoma + 1);
-                
                 try {
                     int harga = stoi(hargaStr);
-                    menuList.push_back({nama, harga, "Menu Lezat"});
-                } catch (...) { 
-                    continue; 
-                }
+                    tempMenu.push_back({nama, harga, "Menu Lezat"});
+                } catch (...) { continue; }
             }
         }
         file.close();
-        cout << "[SUKSES] Berhasil memuat " << menuList.size() << " data." << endl;
+        cout << "[SUKSES] Loaded " << filename << " (" << tempMenu.size() << " data)" << endl;
     } else {
-        cout << "[ERROR] GAGAL MEMBUKA FILE: " << path << endl;
+        cout << "[ERROR] Gagal membuka: " << fullPath << endl;
     }
+    return tempMenu;
 }
-
+// Iteratif
 int searchIterative(const vector<MenuItem>& menu, string target) {
     for (size_t i = 0; i < menu.size(); ++i) {
         if (menu[i].name.find(target) != string::npos) return i;
     }
     return -1;
 }
-
+// Rekursif
 int searchRecursive(const vector<MenuItem>& menu, const string& target, int index) {
     if (index >= (int)menu.size()) return -1;
     if (menu[index].name.find(target) != string::npos) return index;
     return searchRecursive(menu, target, index + 1);
 }
 
-string getHtmlPage(string result = "", string timeInfo = "") {
+string getHtmlPage(string result = "", string timeInfo = "", string selectedSize = "100") {
+    
+    string sel100 = (selectedSize == "100") ? "selected" : "";
+    string sel1000 = (selectedSize == "1000") ? "selected" : "";
+    string sel5000 = (selectedSize == "5000") ? "selected" : "";
+     string sel10000 = (selectedSize == "10000") ? "selected" : "";
+
     return R"(
     <!DOCTYPE html>
     <html lang="id">
@@ -99,12 +105,10 @@ string getHtmlPage(string result = "", string timeInfo = "") {
                 width: 100%;
                 max-width: 550px;
                 text-align: center;
-                transition: transform 0.3s;
                 border: 1px solid rgba(255, 255, 255, 0.4);
             }
-            .container:hover { transform: translateY(-5px); }
 
-            h1 { font-weight: 700; color: #2d3436; margin-bottom: 5px; font-size: 28px; letter-spacing: -0.5px; }
+            h1 { font-weight: 700; color: #2d3436; margin-bottom: 5px; font-size: 28px; }
             .icon-header { font-size: 40px; margin-bottom: 10px; display: block; }
             
             .badge {
@@ -118,7 +122,7 @@ string getHtmlPage(string result = "", string timeInfo = "") {
                 margin-bottom: 30px;
             }
 
-            input[type="text"] {
+            select, input[type="text"] {
                 width: 100%;
                 padding: 18px 20px;
                 border: 2px solid transparent;
@@ -128,15 +132,18 @@ string getHtmlPage(string result = "", string timeInfo = "") {
                 font-family: 'Poppins', sans-serif;
                 outline: none;
                 transition: all 0.3s ease;
-                margin-bottom: 25px;
+                margin-bottom: 15px;
+                color: #2d3436;
             }
-            input[type="text"]:focus {
+            select:focus, input[type="text"]:focus {
                 border-color: #6c5ce7;
                 background: #fff;
                 box-shadow: 0 10px 20px rgba(108, 92, 231, 0.1);
             }
 
-            .btn-group { display: flex; gap: 15px; }
+            label { font-size: 12px; font-weight: 600; color: #636e72; display: block; text-align: left; margin-bottom: 5px; margin-left: 5px;}
+
+            .btn-group { display: flex; gap: 15px; margin-top: 10px; }
             button {
                 flex: 1;
                 padding: 15px;
@@ -151,16 +158,12 @@ string getHtmlPage(string result = "", string timeInfo = "") {
                 align-items: center;
                 justify-content: center;
                 gap: 8px;
-                font-size: 14px;
             }
             
             .btn-iter { background: linear-gradient(135deg, #0984e3, #74b9ff); box-shadow: 0 10px 20px rgba(9, 132, 227, 0.2); }
             .btn-rec { background: linear-gradient(135deg, #6c5ce7, #a29bfe); box-shadow: 0 10px 20px rgba(108, 92, 231, 0.2); }
 
             button:hover { transform: translateY(-3px); filter: brightness(1.1); }
-            button:active { transform: scale(0.98); }
-
-            @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
 
             .result-card {
                 margin-top: 35px;
@@ -172,15 +175,12 @@ string getHtmlPage(string result = "", string timeInfo = "") {
                 border-left: 6px solid #ccc;
                 animation: fadeIn 0.5s ease-out;
             }
+            @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
 
             .menu-title { font-size: 20px; font-weight: 700; color: #2d3436; margin-bottom: 5px; }
             .menu-price { font-size: 24px; font-weight: 700; color: #00b894; }
             
-            .not-found {
-                background: #fff5f5;
-                color: #d63031;
-                border-left-color: #d63031;
-            }
+            .not-found { background: #fff5f5; color: #d63031; border-left-color: #d63031; }
 
             .time-stat {
                 margin-top: 20px;
@@ -198,10 +198,21 @@ string getHtmlPage(string result = "", string timeInfo = "") {
         <div class="container">
             <span class="icon-header">🍔</span>
             <h1>Cari Menu Favorit</h1>
-            <div class="badge">Database: )" + to_string(menuList.size()) + R"( Menu Items</div>
+            <div class="badge">E-Menu Database Search System</div>
             
             <form action="/search" method="GET">
+                
+                <label>Pilih Ukuran Data:</label>
+                <select name="size">
+                    <option value="100" )" + sel100 + R"(>📂 100 Data Menu</option>
+                    <option value="1000" )" + sel1000 + R"(>📂 1.000 Data Menu</option>
+                    <option value="5000" )" + sel5000 + R"(>📂 5.000 Data Menu</option>
+                     <option value="10000" )" + sel10000 + R"(>📂 10.000 Data Menu</option>
+                </select>
+
+                <label>Nama Makanan:</label>
                 <input type="text" name="query" placeholder="Contoh: Steak, Nasi Goreng..." required autocomplete="off">
+                
                 <div class="btn-group">
                     <button type="submit" name="algo" value="iterative" class="btn-iter">
                         <span>⚡</span> Iteratif
@@ -221,7 +232,13 @@ string getHtmlPage(string result = "", string timeInfo = "") {
 }
 
 int main() {
-    loadDatabase(); 
+    cout << "--- MEMUAT DATABASE ---" << endl;
+    databases["100"] = loadFile("menu_100.txt");
+    databases["1000"] = loadFile("menu_1000.txt");
+    databases["5000"] = loadFile("menu_5000.txt");
+    databases["10000"] = loadFile("menu_10000.txt");
+    cout << "--- SISTEM SIAP ---" << endl;
+
     crow::SimpleApp app;
 
     CROW_ROUTE(app, "/")([](){
@@ -231,23 +248,22 @@ int main() {
     CROW_ROUTE(app, "/search")([](const crow::request& req){
         string query = req.url_params.get("query");
         string algo = req.url_params.get("algo");
+        string size = req.url_params.get("size"); 
         
-        string themeColor;
-        string algoDisplay;
-
-        if (algo == "iterative") {
-            themeColor = "#0984e3"; 
-            algoDisplay = "Iteratif"; 
-        } else {
-            themeColor = "#6c5ce7"; 
-            algoDisplay = "Rekursif"; 
+        if (databases.find(size) == databases.end() || databases[size].empty()) {
+            return getHtmlPage("<div class='result-card not-found'><p>Database " + size + " kosong/tidak ditemukan!</p></div>", "", size);
         }
+
+        const vector<MenuItem>& currentDB = databases[size];
+
+        string themeColor = (algo == "iterative") ? "#0984e3" : "#6c5ce7";
+        string algoDisplay = (algo == "iterative") ? "Iteratif" : "Rekursif";
 
         auto start = high_resolution_clock::now();
         int foundIndex = -1;
         
-        if (algo == "iterative") foundIndex = searchIterative(menuList, query);
-        else foundIndex = searchRecursive(menuList, query, 0);
+        if (algo == "iterative") foundIndex = searchIterative(currentDB, query);
+        else foundIndex = searchRecursive(currentDB, query, 0);
 
         auto stop = high_resolution_clock::now();
         auto duration = duration_cast<nanoseconds>(stop - start);
@@ -255,21 +271,21 @@ int main() {
         string resultHtml;
         if (foundIndex != -1) {
             resultHtml = "<div class='result-card' style='border-left-color: " + themeColor + ";'>"
-                         "<div style='color: " + themeColor + "; font-size: 12px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; margin-bottom:5px;'>Ditemukan via " + algoDisplay + "</div>"
-                         "<div class='menu-title'>" + menuList[foundIndex].name + "</div>"
-                         "<div class='menu-price'>Rp " + to_string(menuList[foundIndex].price) + "</div>"
+                         "<div style='color:" + themeColor + "; font-size:12px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; margin-bottom:5px;'>Ditemukan via " + algoDisplay + "</div>"
+                         "<div class='menu-title'>" + currentDB[foundIndex].name + "</div>"
+                         "<div class='menu-price'>Rp " + to_string(currentDB[foundIndex].price) + "</div>"
                          "</div>";
         } else {
             resultHtml = "<div class='result-card not-found'>"
-                         "<div style='color: " + themeColor + "; font-size: 12px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; margin-bottom:5px;'>Dicari via " + algoDisplay + "</div>"
+                         "<div style='color:" + themeColor + "; font-size:12px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; margin-bottom:5px;'>Dicari via " + algoDisplay + "</div>"
                          "<div class='menu-title'>Oops!</div>"
-                         "<p>Data Makanan <b>" + query + "</b> tidak ada di menu kami.</p>"
+                         "<p>Data Makanan <b>" + query + "</b> tidak ada di menu (" + size + " Data).</p>"
                          "</div>";
         }
 
-        string timeHtml = "<div class='time-stat'>⏱️ Waktu Eksekusi: <b style='color:" + themeColor + "'>" + to_string(duration.count()) + " ns</b></div>";
+        string timeHtml = "<div class='time-stat'>⏱️ Waktu Eksekusi: <b style='color:" + themeColor + "'>" + to_string(duration.count()) + " ns</b> (Database: " + size + ")</div>";
         
-        return getHtmlPage(resultHtml, timeHtml);
+        return getHtmlPage(resultHtml, timeHtml, size);
     });
 
     app.port(18080).multithreaded().run();
