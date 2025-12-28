@@ -1,0 +1,5000 @@
+Ayam Bakar Asam Manis, 22500
+Ayam Bakar Asam Manis, 23000
+Ayam Bakar Asam Manis, 23500
+Ayam Bakar Asam Manis, 24500
+Ayam Bakar Ati Ampela, 22000
+Ayam Bakar Ati Ampela, 22500
+Ayam Bakar Ati Ampela, 23000
+Ayam Bakar Ati Ampela, 24000
+Ayam Bakar Ati Ampela, 24500
+Ayam Bakar Ayam, 22500
+Ayam Bakar Ayam, 23000
+Ayam Bakar Ayam, 23500
+Ayam Bakar Ayam, 24000
+Ayam Bakar Ayam, 24500
+Ayam Bakar Balado, 22000
+Ayam Bakar Balado, 23000
+Ayam Bakar Balado, 24000
+Ayam Bakar Geprek, 22500
+Ayam Bakar Geprek, 23000
+Ayam Bakar Geprek, 23500
+Ayam Bakar Geprek, 24000
+Ayam Bakar Geprek, 24500
+Ayam Bakar Jumbo, 27000
+Ayam Bakar Jumbo, 28000
+Ayam Bakar Jumbo, 28500
+Ayam Bakar Jumbo, 29000
+Ayam Bakar Jumbo, 29500
+Ayam Bakar Kecap, 23000
+Ayam Bakar Kecap, 23500
+Ayam Bakar Kecap, 24000
+Ayam Bakar Kecap, 24500
+Ayam Bakar Keju, 25000
+Ayam Bakar Keju, 26500
+Ayam Bakar Keju, 27000
+Ayam Bakar Keju, 27500
+Ayam Bakar Komplit, 26000
+Ayam Bakar Komplit, 26500
+Ayam Bakar Komplit, 28500
+Ayam Bakar Kornet, 22000
+Ayam Bakar Kornet, 22500
+Ayam Bakar Kornet, 23000
+Ayam Bakar Kornet, 23500
+Ayam Bakar Kornet, 24000
+Ayam Bakar Kornet, 24500
+Ayam Bakar Lada Hitam, 22000
+Ayam Bakar Lada Hitam, 23000
+Ayam Bakar Lada Hitam, 24000
+Ayam Bakar Lada Hitam, 24500
+Ayam Bakar Mentega, 22000
+Ayam Bakar Mentega, 22500
+Ayam Bakar Mentega, 23000
+Ayam Bakar Mentega, 23500
+Ayam Bakar Mentega, 24500
+Ayam Bakar Mozarella, 25000
+Ayam Bakar Mozarella, 25500
+Ayam Bakar Mozarella, 26500
+Ayam Bakar Mozarella, 27500
+Ayam Bakar Original, 22000
+Ayam Bakar Original, 22500
+Ayam Bakar Original, 23000
+Ayam Bakar Original, 23500
+Ayam Bakar Original, 24500
+Ayam Bakar Pedas, 22000
+Ayam Bakar Pedas, 22500
+Ayam Bakar Pedas, 23000
+Ayam Bakar Pedas, 23500
+Ayam Bakar Pedas, 24000
+Ayam Bakar Pedas, 24500
+Ayam Bakar Penyet, 22000
+Ayam Bakar Penyet, 22500
+Ayam Bakar Penyet, 23000
+Ayam Bakar Penyet, 23500
+Ayam Bakar Penyet, 24000
+Ayam Bakar Penyet, 24500
+Ayam Bakar Rica-rica, 22500
+Ayam Bakar Rica-rica, 23000
+Ayam Bakar Rica-rica, 23500
+Ayam Bakar Rica-rica, 24000
+Ayam Bakar Sapi, 35000
+Ayam Bakar Sapi, 35500
+Ayam Bakar Sapi, 36000
+Ayam Bakar Sapi, 37000
+Ayam Bakar Sapi, 37500
+Ayam Bakar Seafood, 28000
+Ayam Bakar Seafood, 28500
+Ayam Bakar Seafood, 29000
+Ayam Bakar Seafood, 29500
+Ayam Bakar Seafood, 30000
+Ayam Bakar Spesial, 26000
+Ayam Bakar Spesial, 27000
+Ayam Bakar Spesial, 28500
+Ayam Bakar Telur, 22000
+Ayam Bakar Telur, 22500
+Ayam Bakar Telur, 23000
+Ayam Bakar Telur, 23500
+Ayam Bakar Telur, 24000
+Ayam Bakar Telur, 24500
+Ayam Bakar, 22000
+Ayam Bakar, 22500
+Ayam Bakar, 23000
+Ayam Bakar, 23500
+Ayam Bakar, 24000
+Ayam Bakar, 24500
+Ayam Goreng Asam Manis, 22000
+Ayam Goreng Asam Manis, 22500
+Ayam Goreng Asam Manis, 23000
+Ayam Goreng Asam Manis, 23500
+Ayam Goreng Asam Manis, 24000
+Ayam Goreng Asam Manis, 24500
+Ayam Goreng Ati Ampela, 22500
+Ayam Goreng Ati Ampela, 23000
+Ayam Goreng Ati Ampela, 23500
+Ayam Goreng Ati Ampela, 24000
+Ayam Goreng Ati Ampela, 24500
+Ayam Goreng Ayam, 22000
+Ayam Goreng Ayam, 22500
+Ayam Goreng Ayam, 23000
+Ayam Goreng Ayam, 23500
+Ayam Goreng Ayam, 24000
+Ayam Goreng Ayam, 24500
+Ayam Goreng Balado, 22500
+Ayam Goreng Balado, 23000
+Ayam Goreng Balado, 23500
+Ayam Goreng Balado, 24000
+Ayam Goreng Geprek, 22000
+Ayam Goreng Geprek, 22500
+Ayam Goreng Geprek, 23000
+Ayam Goreng Geprek, 23500
+Ayam Goreng Geprek, 24000
+Ayam Goreng Geprek, 24500
+Ayam Goreng Jumbo, 27000
+Ayam Goreng Jumbo, 27500
+Ayam Goreng Jumbo, 28000
+Ayam Goreng Jumbo, 28500
+Ayam Goreng Jumbo, 29000
+Ayam Goreng Jumbo, 29500
+Ayam Goreng Kecap, 22000
+Ayam Goreng Kecap, 22500
+Ayam Goreng Kecap, 23000
+Ayam Goreng Kecap, 23500
+Ayam Goreng Kecap, 24000
+Ayam Goreng Keju, 25000
+Ayam Goreng Keju, 25500
+Ayam Goreng Keju, 26500
+Ayam Goreng Keju, 27000
+Ayam Goreng Komplit, 26500
+Ayam Goreng Komplit, 27000
+Ayam Goreng Komplit, 27500
+Ayam Goreng Komplit, 28500
+Ayam Goreng Kornet, 22000
+Ayam Goreng Kornet, 22500
+Ayam Goreng Kornet, 23000
+Ayam Goreng Kornet, 23500
+Ayam Goreng Kornet, 24000
+Ayam Goreng Kornet, 24500
+Ayam Goreng Lada Hitam, 22000
+Ayam Goreng Lada Hitam, 23000
+Ayam Goreng Lada Hitam, 23500
+Ayam Goreng Lada Hitam, 24000
+Ayam Goreng Lada Hitam, 24500
+Ayam Goreng Mentega, 22500
+Ayam Goreng Mentega, 23000
+Ayam Goreng Mentega, 24000
+Ayam Goreng Mentega, 24500
+Ayam Goreng Mozarella, 25000
+Ayam Goreng Mozarella, 25500
+Ayam Goreng Mozarella, 27000
+Ayam Goreng Mozarella, 27500
+Ayam Goreng Original, 22000
+Ayam Goreng Original, 22500
+Ayam Goreng Original, 23000
+Ayam Goreng Original, 23500
+Ayam Goreng Original, 24000
+Ayam Goreng Pedas, 22500
+Ayam Goreng Pedas, 23000
+Ayam Goreng Pedas, 23500
+Ayam Goreng Pedas, 24000
+Ayam Goreng Pedas, 24500
+Ayam Goreng Penyet, 22000
+Ayam Goreng Penyet, 22500
+Ayam Goreng Penyet, 23000
+Ayam Goreng Penyet, 23500
+Ayam Goreng Penyet, 24000
+Ayam Goreng Rica-rica, 22000
+Ayam Goreng Rica-rica, 22500
+Ayam Goreng Rica-rica, 23000
+Ayam Goreng Rica-rica, 23500
+Ayam Goreng Rica-rica, 24500
+Ayam Goreng Sapi, 35000
+Ayam Goreng Sapi, 35500
+Ayam Goreng Sapi, 36000
+Ayam Goreng Sapi, 36500
+Ayam Goreng Sapi, 37000
+Ayam Goreng Sapi, 37500
+Ayam Goreng Seafood, 28000
+Ayam Goreng Seafood, 28500
+Ayam Goreng Seafood, 29000
+Ayam Goreng Seafood, 29500
+Ayam Goreng Seafood, 30000
+Ayam Goreng Spesial, 26000
+Ayam Goreng Spesial, 26500
+Ayam Goreng Spesial, 27500
+Ayam Goreng Spesial, 28000
+Ayam Goreng Spesial, 28500
+Ayam Goreng Telur, 22000
+Ayam Goreng Telur, 22500
+Ayam Goreng Telur, 23000
+Ayam Goreng Telur, 23500
+Ayam Goreng Telur, 24000
+Ayam Goreng, 22000
+Ayam Goreng, 22500
+Ayam Goreng, 23000
+Ayam Goreng, 23500
+Ayam Goreng, 24000
+Ayam Goreng, 24500
+Bakso Asam Manis, 10000
+Bakso Asam Manis, 10500
+Bakso Asam Manis, 11000
+Bakso Asam Manis, 11500
+Bakso Asam Manis, 12000
+Bakso Asam Manis, 12500
+Bakso Ati Ampela, 10000
+Bakso Ati Ampela, 10500
+Bakso Ati Ampela, 11000
+Bakso Ati Ampela, 11500
+Bakso Ati Ampela, 12500
+Bakso Ayam, 22000
+Bakso Ayam, 22500
+Bakso Ayam, 23000
+Bakso Ayam, 23500
+Bakso Ayam, 24000
+Bakso Balado, 10000
+Bakso Balado, 10500
+Bakso Balado, 11000
+Bakso Balado, 11500
+Bakso Balado, 12000
+Bakso Balado, 12500
+Bakso Geprek, 10000
+Bakso Geprek, 10500
+Bakso Geprek, 11000
+Bakso Geprek, 11500
+Bakso Geprek, 12000
+Bakso Geprek, 12500
+Bakso Jumbo, 15000
+Bakso Jumbo, 15500
+Bakso Jumbo, 16000
+Bakso Jumbo, 16500
+Bakso Jumbo, 17000
+Bakso Jumbo, 17500
+Bakso Kecap, 10000
+Bakso Kecap, 10500
+Bakso Kecap, 11000
+Bakso Kecap, 12000
+Bakso Kecap, 12500
+Bakso Keju, 13000
+Bakso Keju, 13500
+Bakso Keju, 14500
+Bakso Keju, 15000
+Bakso Keju, 15500
+Bakso Komplit, 14000
+Bakso Komplit, 14500
+Bakso Komplit, 15000
+Bakso Komplit, 16000
+Bakso Komplit, 16500
+Bakso Kornet, 10000
+Bakso Kornet, 10500
+Bakso Kornet, 11000
+Bakso Kornet, 11500
+Bakso Kornet, 12000
+Bakso Kornet, 12500
+Bakso Lada Hitam, 10500
+Bakso Lada Hitam, 11000
+Bakso Lada Hitam, 11500
+Bakso Mentega, 11500
+Bakso Mentega, 12500
+Bakso Mozarella, 13000
+Bakso Mozarella, 13500
+Bakso Mozarella, 14000
+Bakso Mozarella, 14500
+Bakso Mozarella, 15500
+Bakso Original, 10000
+Bakso Original, 11500
+Bakso Original, 12500
+Bakso Pedas, 10000
+Bakso Pedas, 10500
+Bakso Pedas, 11000
+Bakso Pedas, 12500
+Bakso Penyet, 10000
+Bakso Penyet, 10500
+Bakso Penyet, 11500
+Bakso Penyet, 12000
+Bakso Rica-rica, 10000
+Bakso Rica-rica, 11000
+Bakso Rica-rica, 11500
+Bakso Rica-rica, 12000
+Bakso Rica-rica, 12500
+Bakso Sapi, 35000
+Bakso Sapi, 35500
+Bakso Sapi, 36000
+Bakso Sapi, 36500
+Bakso Sapi, 37000
+Bakso Sapi, 37500
+Bakso Seafood, 28500
+Bakso Seafood, 29000
+Bakso Seafood, 29500
+Bakso Seafood, 30000
+Bakso Seafood, 30500
+Bakso Spesial, 14000
+Bakso Spesial, 14500
+Bakso Spesial, 15000
+Bakso Spesial, 15500
+Bakso Spesial, 16500
+Bakso Telur, 10000
+Bakso Telur, 10500
+Bakso Telur, 11000
+Bakso Telur, 11500
+Bakso Telur, 12000
+Bakso Telur, 12500
+Bakso, 10000
+Bakso, 10500
+Bakso, 11000
+Bakso, 11500
+Bakso, 12000
+Bakso, 12500
+Batagor Asam Manis, 10000
+Batagor Asam Manis, 10500
+Batagor Asam Manis, 8000
+Batagor Asam Manis, 8500
+Batagor Asam Manis, 9000
+Batagor Ati Ampela, 10000
+Batagor Ati Ampela, 10500
+Batagor Ati Ampela, 8500
+Batagor Ati Ampela, 9000
+Batagor Ati Ampela, 9500
+Batagor Ayam, 8500
+Batagor Ayam, 9000
+Batagor Ayam, 9500
+Batagor Balado, 10000
+Batagor Balado, 8000
+Batagor Balado, 8500
+Batagor Balado, 9500
+Batagor Geprek, 10000
+Batagor Geprek, 8500
+Batagor Geprek, 9000
+Batagor Jumbo, 13000
+Batagor Jumbo, 13500
+Batagor Jumbo, 14000
+Batagor Jumbo, 14500
+Batagor Jumbo, 15000
+Batagor Jumbo, 15500
+Batagor Kecap, 10000
+Batagor Kecap, 10500
+Batagor Kecap, 8000
+Batagor Kecap, 9000
+Batagor Kecap, 9500
+Batagor Keju, 13000
+Batagor Keju, 13500
+Batagor Komplit, 12000
+Batagor Komplit, 12500
+Batagor Komplit, 13000
+Batagor Komplit, 13500
+Batagor Komplit, 14500
+Batagor Kornet, 10000
+Batagor Kornet, 10500
+Batagor Kornet, 8000
+Batagor Kornet, 8500
+Batagor Kornet, 9000
+Batagor Kornet, 9500
+Batagor Lada Hitam, 10000
+Batagor Lada Hitam, 10500
+Batagor Lada Hitam, 8500
+Batagor Mentega, 10000
+Batagor Mentega, 10500
+Batagor Mentega, 8000
+Batagor Mentega, 8500
+Batagor Mentega, 9000
+Batagor Mozarella, 11000
+Batagor Mozarella, 12000
+Batagor Mozarella, 12500
+Batagor Mozarella, 13000
+Batagor Mozarella, 13500
+Batagor Original, 10000
+Batagor Original, 10500
+Batagor Original, 8000
+Batagor Original, 9000
+Batagor Original, 9500
+Batagor Pedas, 10000
+Batagor Pedas, 10500
+Batagor Pedas, 8000
+Batagor Pedas, 8500
+Batagor Pedas, 9000
+Batagor Pedas, 9500
+Batagor Penyet, 10000
+Batagor Penyet, 10500
+Batagor Penyet, 8000
+Batagor Penyet, 8500
+Batagor Penyet, 9000
+Batagor Penyet, 9500
+Batagor Rica-rica, 10500
+Batagor Rica-rica, 8000
+Batagor Rica-rica, 9000
+Batagor Rica-rica, 9500
+Batagor Sapi, 10000
+Batagor Sapi, 10500
+Batagor Sapi, 8000
+Batagor Sapi, 8500
+Batagor Sapi, 9000
+Batagor Seafood, 10000
+Batagor Seafood, 8000
+Batagor Seafood, 9000
+Batagor Seafood, 9500
+Batagor Spesial, 12000
+Batagor Spesial, 12500
+Batagor Spesial, 13000
+Batagor Spesial, 13500
+Batagor Spesial, 14000
+Batagor Spesial, 14500
+Batagor Telur, 10000
+Batagor Telur, 10500
+Batagor Telur, 8000
+Batagor Telur, 8500
+Batagor Telur, 9000
+Batagor Telur, 9500
+Batagor, 10000
+Batagor, 10500
+Batagor, 8000
+Batagor, 8500
+Batagor, 9000
+Batagor, 9500
+Bebek Goreng Asam Manis, 30000
+Bebek Goreng Asam Manis, 30500
+Bebek Goreng Asam Manis, 31000
+Bebek Goreng Asam Manis, 31500
+Bebek Goreng Asam Manis, 32000
+Bebek Goreng Asam Manis, 32500
+Bebek Goreng Ati Ampela, 30500
+Bebek Goreng Ati Ampela, 31000
+Bebek Goreng Ati Ampela, 31500
+Bebek Goreng Ati Ampela, 32000
+Bebek Goreng Ati Ampela, 32500
+Bebek Goreng Ayam, 30500
+Bebek Goreng Ayam, 31000
+Bebek Goreng Ayam, 31500
+Bebek Goreng Ayam, 32000
+Bebek Goreng Balado, 30000
+Bebek Goreng Balado, 30500
+Bebek Goreng Balado, 31000
+Bebek Goreng Balado, 32000
+Bebek Goreng Geprek, 30500
+Bebek Goreng Geprek, 31000
+Bebek Goreng Geprek, 31500
+Bebek Goreng Geprek, 32500
+Bebek Goreng Jumbo, 36000
+Bebek Goreng Jumbo, 36500
+Bebek Goreng Jumbo, 37000
+Bebek Goreng Jumbo, 37500
+Bebek Goreng Kecap, 30000
+Bebek Goreng Kecap, 30500
+Bebek Goreng Kecap, 31000
+Bebek Goreng Kecap, 31500
+Bebek Goreng Kecap, 32000
+Bebek Goreng Kecap, 32500
+Bebek Goreng Keju, 33000
+Bebek Goreng Keju, 33500
+Bebek Goreng Keju, 34500
+Bebek Goreng Keju, 35000
+Bebek Goreng Komplit, 34000
+Bebek Goreng Komplit, 34500
+Bebek Goreng Komplit, 35000
+Bebek Goreng Komplit, 36000
+Bebek Goreng Kornet, 30000
+Bebek Goreng Kornet, 30500
+Bebek Goreng Kornet, 31500
+Bebek Goreng Kornet, 32000
+Bebek Goreng Kornet, 32500
+Bebek Goreng Lada Hitam, 30000
+Bebek Goreng Lada Hitam, 31000
+Bebek Goreng Lada Hitam, 32000
+Bebek Goreng Lada Hitam, 32500
+Bebek Goreng Mentega, 30000
+Bebek Goreng Mentega, 30500
+Bebek Goreng Mentega, 31000
+Bebek Goreng Mentega, 32500
+Bebek Goreng Mozarella, 34000
+Bebek Goreng Mozarella, 34500
+Bebek Goreng Mozarella, 35000
+Bebek Goreng Mozarella, 35500
+Bebek Goreng Original, 30000
+Bebek Goreng Original, 30500
+Bebek Goreng Original, 31500
+Bebek Goreng Original, 32000
+Bebek Goreng Original, 32500
+Bebek Goreng Pedas, 30000
+Bebek Goreng Pedas, 30500
+Bebek Goreng Pedas, 31000
+Bebek Goreng Pedas, 31500
+Bebek Goreng Pedas, 32000
+Bebek Goreng Pedas, 32500
+Bebek Goreng Penyet, 30000
+Bebek Goreng Penyet, 30500
+Bebek Goreng Penyet, 31000
+Bebek Goreng Penyet, 31500
+Bebek Goreng Penyet, 32000
+Bebek Goreng Penyet, 32500
+Bebek Goreng Rica-rica, 30000
+Bebek Goreng Rica-rica, 30500
+Bebek Goreng Rica-rica, 31000
+Bebek Goreng Rica-rica, 32000
+Bebek Goreng Rica-rica, 32500
+Bebek Goreng Sapi, 35000
+Bebek Goreng Sapi, 35500
+Bebek Goreng Sapi, 36000
+Bebek Goreng Sapi, 36500
+Bebek Goreng Sapi, 37000
+Bebek Goreng Sapi, 37500
+Bebek Goreng Seafood, 30000
+Bebek Goreng Seafood, 30500
+Bebek Goreng Seafood, 31000
+Bebek Goreng Seafood, 31500
+Bebek Goreng Seafood, 32000
+Bebek Goreng Seafood, 32500
+Bebek Goreng Spesial, 34000
+Bebek Goreng Spesial, 35000
+Bebek Goreng Spesial, 35500
+Bebek Goreng Spesial, 36000
+Bebek Goreng Spesial, 36500
+Bebek Goreng Telur, 30000
+Bebek Goreng Telur, 30500
+Bebek Goreng Telur, 31000
+Bebek Goreng Telur, 31500
+Bebek Goreng Telur, 32000
+Bebek Goreng Telur, 32500
+Bebek Goreng, 30000
+Bebek Goreng, 30500
+Bebek Goreng, 31000
+Bebek Goreng, 31500
+Bebek Goreng, 32000
+Bebek Goreng, 32500
+Beef Burger Asam Manis, 35000
+Beef Burger Asam Manis, 35500
+Beef Burger Asam Manis, 36000
+Beef Burger Asam Manis, 36500
+Beef Burger Asam Manis, 37500
+Beef Burger Ati Ampela, 35000
+Beef Burger Ati Ampela, 35500
+Beef Burger Ati Ampela, 36000
+Beef Burger Ati Ampela, 36500
+Beef Burger Ati Ampela, 37000
+Beef Burger Ati Ampela, 37500
+Beef Burger Ayam, 35000
+Beef Burger Ayam, 35500
+Beef Burger Ayam, 36000
+Beef Burger Ayam, 36500
+Beef Burger Ayam, 37000
+Beef Burger Ayam, 37500
+Beef Burger Balado, 35000
+Beef Burger Balado, 36000
+Beef Burger Balado, 37000
+Beef Burger Balado, 37500
+Beef Burger Geprek, 35000
+Beef Burger Geprek, 36000
+Beef Burger Geprek, 37000
+Beef Burger Geprek, 37500
+Beef Burger Jumbo, 40000
+Beef Burger Jumbo, 40500
+Beef Burger Jumbo, 41000
+Beef Burger Jumbo, 42000
+Beef Burger Jumbo, 42500
+Beef Burger Kecap, 35500
+Beef Burger Kecap, 36000
+Beef Burger Kecap, 37000
+Beef Burger Kecap, 37500
+Beef Burger Keju, 38000
+Beef Burger Keju, 38500
+Beef Burger Keju, 39000
+Beef Burger Keju, 39500
+Beef Burger Keju, 40500
+Beef Burger Komplit, 39000
+Beef Burger Komplit, 39500
+Beef Burger Komplit, 40000
+Beef Burger Komplit, 40500
+Beef Burger Komplit, 41500
+Beef Burger Kornet, 35000
+Beef Burger Kornet, 35500
+Beef Burger Kornet, 36000
+Beef Burger Kornet, 36500
+Beef Burger Kornet, 37000
+Beef Burger Kornet, 37500
+Beef Burger Lada Hitam, 35000
+Beef Burger Lada Hitam, 35500
+Beef Burger Lada Hitam, 36500
+Beef Burger Lada Hitam, 37000
+Beef Burger Mentega, 35000
+Beef Burger Mentega, 35500
+Beef Burger Mentega, 37000
+Beef Burger Mentega, 37500
+Beef Burger Mozarella, 38000
+Beef Burger Mozarella, 38500
+Beef Burger Mozarella, 39500
+Beef Burger Mozarella, 40000
+Beef Burger Mozarella, 40500
+Beef Burger Original, 35500
+Beef Burger Original, 36000
+Beef Burger Original, 36500
+Beef Burger Pedas, 35500
+Beef Burger Pedas, 36000
+Beef Burger Pedas, 36500
+Beef Burger Pedas, 37000
+Beef Burger Pedas, 37500
+Beef Burger Penyet, 35000
+Beef Burger Penyet, 35500
+Beef Burger Penyet, 36000
+Beef Burger Penyet, 36500
+Beef Burger Penyet, 37000
+Beef Burger Penyet, 37500
+Beef Burger Rica-rica, 35000
+Beef Burger Rica-rica, 35500
+Beef Burger Rica-rica, 36000
+Beef Burger Rica-rica, 36500
+Beef Burger Rica-rica, 37000
+Beef Burger Sapi, 35000
+Beef Burger Sapi, 35500
+Beef Burger Sapi, 36000
+Beef Burger Sapi, 37000
+Beef Burger Sapi, 37500
+Beef Burger Seafood, 35000
+Beef Burger Seafood, 35500
+Beef Burger Seafood, 36000
+Beef Burger Seafood, 37000
+Beef Burger Seafood, 37500
+Beef Burger Spesial, 39000
+Beef Burger Spesial, 39500
+Beef Burger Spesial, 40000
+Beef Burger Spesial, 40500
+Beef Burger Spesial, 41500
+Beef Burger Telur, 35000
+Beef Burger Telur, 35500
+Beef Burger Telur, 36500
+Beef Burger Telur, 37000
+Beef Burger Telur, 37500
+Beef Burger, 35000
+Beef Burger, 35500
+Beef Burger, 36000
+Beef Burger, 36500
+Beef Burger, 37000
+Beef Burger, 37500
+Boba Milk Cincau, 5000
+Boba Milk Cincau, 5500
+Boba Milk Cincau, 6000
+Boba Milk Cincau, 6500
+Boba Milk Cincau, 7000
+Boba Milk Cincau, 7500
+Boba Milk Gula Aren, 5000
+Boba Milk Gula Aren, 5500
+Boba Milk Gula Aren, 6000
+Boba Milk Gula Aren, 6500
+Boba Milk Gula Aren, 7000
+Boba Milk Gula Aren, 7500
+Boba Milk Jelly, 5000
+Boba Milk Jelly, 5500
+Boba Milk Jelly, 6000
+Boba Milk Jelly, 6500
+Boba Milk Jelly, 7000
+Boba Milk Jelly, 7500
+Boba Milk Large, 10000
+Boba Milk Large, 10500
+Boba Milk Large, 11000
+Boba Milk Large, 11500
+Boba Milk Large, 12000
+Boba Milk Large, 12500
+Boba Milk, 5000
+Boba Milk, 5500
+Boba Milk, 6000
+Boba Milk, 6500
+Boba Milk, 7000
+Boba Milk, 7500
+Cappuccino Cincau, 5000
+Cappuccino Cincau, 5500
+Cappuccino Cincau, 6000
+Cappuccino Cincau, 6500
+Cappuccino Cincau, 7000
+Cappuccino Cincau, 7500
+Cappuccino Gula Aren, 5000
+Cappuccino Gula Aren, 5500
+Cappuccino Gula Aren, 6000
+Cappuccino Gula Aren, 6500
+Cappuccino Gula Aren, 7000
+Cappuccino Gula Aren, 7500
+Cappuccino Jelly, 5000
+Cappuccino Jelly, 5500
+Cappuccino Jelly, 6000
+Cappuccino Jelly, 6500
+Cappuccino Jelly, 7000
+Cappuccino Jelly, 7500
+Cappuccino Large, 10000
+Cappuccino Large, 10500
+Cappuccino Large, 11000
+Cappuccino Large, 11500
+Cappuccino Large, 12000
+Cappuccino Large, 12500
+Cappuccino, 5000
+Cappuccino, 5500
+Cappuccino, 6000
+Cappuccino, 6500
+Cappuccino, 7000
+Cappuccino, 7500
+Cheese Burger Asam Manis, 25000
+Cheese Burger Asam Manis, 25500
+Cheese Burger Asam Manis, 26000
+Cheese Burger Asam Manis, 26500
+Cheese Burger Asam Manis, 27000
+Cheese Burger Asam Manis, 27500
+Cheese Burger Ati Ampela, 25000
+Cheese Burger Ati Ampela, 25500
+Cheese Burger Ati Ampela, 26000
+Cheese Burger Ati Ampela, 27000
+Cheese Burger Ati Ampela, 27500
+Cheese Burger Ayam, 22000
+Cheese Burger Ayam, 22500
+Cheese Burger Ayam, 24000
+Cheese Burger Balado, 25000
+Cheese Burger Balado, 25500
+Cheese Burger Balado, 26000
+Cheese Burger Balado, 27000
+Cheese Burger Balado, 27500
+Cheese Burger Geprek, 25000
+Cheese Burger Geprek, 26000
+Cheese Burger Geprek, 26500
+Cheese Burger Geprek, 27000
+Cheese Burger Geprek, 27500
+Cheese Burger Jumbo, 30000
+Cheese Burger Jumbo, 30500
+Cheese Burger Jumbo, 31000
+Cheese Burger Jumbo, 32000
+Cheese Burger Jumbo, 32500
+Cheese Burger Kecap, 25000
+Cheese Burger Kecap, 25500
+Cheese Burger Kecap, 26000
+Cheese Burger Kecap, 26500
+Cheese Burger Kecap, 27000
+Cheese Burger Kecap, 27500
+Cheese Burger Keju, 28000
+Cheese Burger Keju, 30000
+Cheese Burger Keju, 30500
+Cheese Burger Komplit, 29000
+Cheese Burger Komplit, 29500
+Cheese Burger Komplit, 30000
+Cheese Burger Komplit, 31000
+Cheese Burger Kornet, 25000
+Cheese Burger Kornet, 25500
+Cheese Burger Kornet, 26000
+Cheese Burger Kornet, 26500
+Cheese Burger Kornet, 27000
+Cheese Burger Kornet, 27500
+Cheese Burger Lada Hitam, 25000
+Cheese Burger Lada Hitam, 25500
+Cheese Burger Lada Hitam, 26500
+Cheese Burger Lada Hitam, 27000
+Cheese Burger Lada Hitam, 27500
+Cheese Burger Mentega, 25000
+Cheese Burger Mentega, 26000
+Cheese Burger Mentega, 26500
+Cheese Burger Mentega, 27000
+Cheese Burger Mozarella, 28000
+Cheese Burger Mozarella, 28500
+Cheese Burger Mozarella, 29000
+Cheese Burger Mozarella, 29500
+Cheese Burger Mozarella, 30000
+Cheese Burger Original, 25000
+Cheese Burger Original, 26500
+Cheese Burger Original, 27000
+Cheese Burger Original, 27500
+Cheese Burger Pedas, 25000
+Cheese Burger Pedas, 25500
+Cheese Burger Pedas, 26000
+Cheese Burger Pedas, 26500
+Cheese Burger Pedas, 27000
+Cheese Burger Pedas, 27500
+Cheese Burger Penyet, 25000
+Cheese Burger Penyet, 25500
+Cheese Burger Penyet, 26000
+Cheese Burger Penyet, 26500
+Cheese Burger Rica-rica, 26500
+Cheese Burger Rica-rica, 27000
+Cheese Burger Rica-rica, 27500
+Cheese Burger Sapi, 35000
+Cheese Burger Sapi, 36000
+Cheese Burger Sapi, 36500
+Cheese Burger Sapi, 37000
+Cheese Burger Sapi, 37500
+Cheese Burger Seafood, 28000
+Cheese Burger Seafood, 28500
+Cheese Burger Seafood, 29000
+Cheese Burger Seafood, 30000
+Cheese Burger Seafood, 30500
+Cheese Burger Spesial, 29000
+Cheese Burger Spesial, 30000
+Cheese Burger Spesial, 30500
+Cheese Burger Spesial, 31000
+Cheese Burger Spesial, 31500
+Cheese Burger Telur, 25500
+Cheese Burger Telur, 26000
+Cheese Burger Telur, 26500
+Cheese Burger Telur, 27000
+Cheese Burger Telur, 27500
+Cheese Burger, 25000
+Cheese Burger, 25500
+Cheese Burger, 26000
+Cheese Burger, 26500
+Cheese Burger, 27000
+Cheese Burger, 27500
+Chicken Burger Asam Manis, 22000
+Chicken Burger Asam Manis, 23000
+Chicken Burger Asam Manis, 23500
+Chicken Burger Asam Manis, 24500
+Chicken Burger Ati Ampela, 22500
+Chicken Burger Ati Ampela, 23000
+Chicken Burger Ati Ampela, 23500
+Chicken Burger Ati Ampela, 24000
+Chicken Burger Ati Ampela, 24500
+Chicken Burger Ayam, 22000
+Chicken Burger Ayam, 22500
+Chicken Burger Ayam, 23000
+Chicken Burger Ayam, 24000
+Chicken Burger Ayam, 24500
+Chicken Burger Balado, 22000
+Chicken Burger Balado, 23000
+Chicken Burger Balado, 23500
+Chicken Burger Balado, 24000
+Chicken Burger Balado, 24500
+Chicken Burger Geprek, 22000
+Chicken Burger Geprek, 22500
+Chicken Burger Geprek, 23000
+Chicken Burger Geprek, 23500
+Chicken Burger Geprek, 24000
+Chicken Burger Geprek, 24500
+Chicken Burger Jumbo, 27500
+Chicken Burger Jumbo, 28500
+Chicken Burger Jumbo, 29000
+Chicken Burger Jumbo, 29500
+Chicken Burger Kecap, 22500
+Chicken Burger Kecap, 23000
+Chicken Burger Kecap, 24000
+Chicken Burger Keju, 25000
+Chicken Burger Keju, 26000
+Chicken Burger Keju, 26500
+Chicken Burger Keju, 27000
+Chicken Burger Keju, 27500
+Chicken Burger Komplit, 26000
+Chicken Burger Komplit, 27000
+Chicken Burger Komplit, 27500
+Chicken Burger Komplit, 28000
+Chicken Burger Komplit, 28500
+Chicken Burger Kornet, 22000
+Chicken Burger Kornet, 22500
+Chicken Burger Kornet, 23000
+Chicken Burger Kornet, 23500
+Chicken Burger Kornet, 24000
+Chicken Burger Kornet, 24500
+Chicken Burger Lada Hitam, 22000
+Chicken Burger Lada Hitam, 22500
+Chicken Burger Lada Hitam, 23000
+Chicken Burger Lada Hitam, 23500
+Chicken Burger Lada Hitam, 24000
+Chicken Burger Lada Hitam, 24500
+Chicken Burger Mentega, 22000
+Chicken Burger Mentega, 22500
+Chicken Burger Mentega, 23000
+Chicken Burger Mentega, 23500
+Chicken Burger Mentega, 24000
+Chicken Burger Mozarella, 25000
+Chicken Burger Mozarella, 25500
+Chicken Burger Mozarella, 26000
+Chicken Burger Mozarella, 26500
+Chicken Burger Mozarella, 27000
+Chicken Burger Mozarella, 27500
+Chicken Burger Original, 22000
+Chicken Burger Original, 22500
+Chicken Burger Original, 23000
+Chicken Burger Original, 23500
+Chicken Burger Original, 24000
+Chicken Burger Original, 24500
+Chicken Burger Pedas, 22000
+Chicken Burger Pedas, 22500
+Chicken Burger Pedas, 23000
+Chicken Burger Pedas, 23500
+Chicken Burger Pedas, 24500
+Chicken Burger Penyet, 22000
+Chicken Burger Penyet, 23000
+Chicken Burger Penyet, 24500
+Chicken Burger Rica-rica, 22000
+Chicken Burger Rica-rica, 22500
+Chicken Burger Rica-rica, 23000
+Chicken Burger Rica-rica, 23500
+Chicken Burger Rica-rica, 24000
+Chicken Burger Rica-rica, 24500
+Chicken Burger Sapi, 35000
+Chicken Burger Sapi, 35500
+Chicken Burger Sapi, 36000
+Chicken Burger Sapi, 37000
+Chicken Burger Seafood, 28000
+Chicken Burger Seafood, 28500
+Chicken Burger Seafood, 30000
+Chicken Burger Seafood, 30500
+Chicken Burger Spesial, 26000
+Chicken Burger Spesial, 26500
+Chicken Burger Spesial, 27000
+Chicken Burger Spesial, 28000
+Chicken Burger Telur, 22000
+Chicken Burger Telur, 23000
+Chicken Burger Telur, 23500
+Chicken Burger Telur, 24000
+Chicken Burger, 22000
+Chicken Burger, 22500
+Chicken Burger, 23000
+Chicken Burger, 23500
+Chicken Burger, 24000
+Chicken Burger, 24500
+Cireng Asam Manis, 10000
+Cireng Asam Manis, 10500
+Cireng Asam Manis, 8000
+Cireng Asam Manis, 9000
+Cireng Ati Ampela, 10000
+Cireng Ati Ampela, 10500
+Cireng Ati Ampela, 8000
+Cireng Ati Ampela, 8500
+Cireng Ati Ampela, 9000
+Cireng Ati Ampela, 9500
+Cireng Ayam, 10000
+Cireng Ayam, 10500
+Cireng Ayam, 8000
+Cireng Ayam, 8500
+Cireng Ayam, 9000
+Cireng Ayam, 9500
+Cireng Balado, 10000
+Cireng Balado, 10500
+Cireng Balado, 8000
+Cireng Balado, 9000
+Cireng Balado, 9500
+Cireng Geprek, 10000
+Cireng Geprek, 10500
+Cireng Geprek, 8000
+Cireng Geprek, 9000
+Cireng Geprek, 9500
+Cireng Jumbo, 13000
+Cireng Jumbo, 14500
+Cireng Jumbo, 15000
+Cireng Jumbo, 15500
+Cireng Kecap, 10500
+Cireng Kecap, 8000
+Cireng Kecap, 8500
+Cireng Kecap, 9000
+Cireng Keju, 11000
+Cireng Keju, 11500
+Cireng Keju, 12000
+Cireng Keju, 12500
+Cireng Keju, 13000
+Cireng Komplit, 12000
+Cireng Komplit, 12500
+Cireng Komplit, 13000
+Cireng Komplit, 13500
+Cireng Komplit, 14500
+Cireng Kornet, 10000
+Cireng Kornet, 8000
+Cireng Kornet, 8500
+Cireng Kornet, 9000
+Cireng Kornet, 9500
+Cireng Lada Hitam, 10000
+Cireng Lada Hitam, 10500
+Cireng Lada Hitam, 8000
+Cireng Lada Hitam, 8500
+Cireng Lada Hitam, 9000
+Cireng Mentega, 10000
+Cireng Mentega, 10500
+Cireng Mentega, 8000
+Cireng Mentega, 8500
+Cireng Mentega, 9000
+Cireng Mentega, 9500
+Cireng Mozarella, 11000
+Cireng Mozarella, 11500
+Cireng Mozarella, 12500
+Cireng Mozarella, 13000
+Cireng Mozarella, 13500
+Cireng Original, 8000
+Cireng Original, 8500
+Cireng Original, 9500
+Cireng Pedas, 10500
+Cireng Pedas, 8000
+Cireng Pedas, 8500
+Cireng Pedas, 9000
+Cireng Penyet, 10000
+Cireng Penyet, 10500
+Cireng Penyet, 8000
+Cireng Penyet, 8500
+Cireng Rica-rica, 10000
+Cireng Rica-rica, 10500
+Cireng Rica-rica, 8000
+Cireng Rica-rica, 8500
+Cireng Rica-rica, 9500
+Cireng Sapi, 10000
+Cireng Sapi, 10500
+Cireng Sapi, 8500
+Cireng Seafood, 10000
+Cireng Seafood, 10500
+Cireng Seafood, 8000
+Cireng Seafood, 8500
+Cireng Seafood, 9000
+Cireng Seafood, 9500
+Cireng Spesial, 12500
+Cireng Spesial, 13500
+Cireng Spesial, 14000
+Cireng Spesial, 14500
+Cireng Telur, 10000
+Cireng Telur, 10500
+Cireng Telur, 8000
+Cireng Telur, 8500
+Cireng Telur, 9000
+Cireng, 10000
+Cireng, 10500
+Cireng, 8000
+Cireng, 8500
+Cireng, 9000
+Cireng, 9500
+Coklat Panas Cincau, 5000
+Coklat Panas Cincau, 5500
+Coklat Panas Cincau, 6000
+Coklat Panas Cincau, 6500
+Coklat Panas Cincau, 7000
+Coklat Panas Cincau, 7500
+Coklat Panas Gula Aren, 5000
+Coklat Panas Gula Aren, 5500
+Coklat Panas Gula Aren, 6000
+Coklat Panas Gula Aren, 6500
+Coklat Panas Gula Aren, 7000
+Coklat Panas Gula Aren, 7500
+Coklat Panas Jelly, 5000
+Coklat Panas Jelly, 5500
+Coklat Panas Jelly, 6000
+Coklat Panas Jelly, 6500
+Coklat Panas Jelly, 7000
+Coklat Panas Jelly, 7500
+Coklat Panas Large, 10000
+Coklat Panas Large, 10500
+Coklat Panas Large, 11000
+Coklat Panas Large, 11500
+Coklat Panas Large, 12000
+Coklat Panas Large, 12500
+Coklat Panas, 5000
+Coklat Panas, 5500
+Coklat Panas, 6000
+Coklat Panas, 6500
+Coklat Panas, 7000
+Coklat Panas, 7500
+Dimsum Asam Manis, 10000
+Dimsum Asam Manis, 10500
+Dimsum Asam Manis, 8000
+Dimsum Asam Manis, 8500
+Dimsum Asam Manis, 9000
+Dimsum Ati Ampela, 10500
+Dimsum Ati Ampela, 8000
+Dimsum Ati Ampela, 9000
+Dimsum Ati Ampela, 9500
+Dimsum Ayam, 10000
+Dimsum Ayam, 10500
+Dimsum Ayam, 8000
+Dimsum Ayam, 8500
+Dimsum Ayam, 9500
+Dimsum Balado, 10000
+Dimsum Balado, 10500
+Dimsum Balado, 8000
+Dimsum Balado, 9000
+Dimsum Balado, 9500
+Dimsum Geprek, 10000
+Dimsum Geprek, 10500
+Dimsum Geprek, 8500
+Dimsum Geprek, 9500
+Dimsum Jumbo, 13000
+Dimsum Jumbo, 13500
+Dimsum Jumbo, 14000
+Dimsum Jumbo, 14500
+Dimsum Jumbo, 15000
+Dimsum Jumbo, 15500
+Dimsum Kecap, 10000
+Dimsum Kecap, 10500
+Dimsum Kecap, 8000
+Dimsum Kecap, 8500
+Dimsum Kecap, 9000
+Dimsum Kecap, 9500
+Dimsum Keju, 11000
+Dimsum Keju, 11500
+Dimsum Keju, 12000
+Dimsum Keju, 13000
+Dimsum Keju, 13500
+Dimsum Komplit, 12000
+Dimsum Komplit, 12500
+Dimsum Komplit, 13000
+Dimsum Komplit, 13500
+Dimsum Komplit, 14000
+Dimsum Komplit, 14500
+Dimsum Kornet, 10000
+Dimsum Kornet, 8000
+Dimsum Kornet, 9000
+Dimsum Kornet, 9500
+Dimsum Lada Hitam, 8000
+Dimsum Lada Hitam, 8500
+Dimsum Lada Hitam, 9000
+Dimsum Lada Hitam, 9500
+Dimsum Mentega, 10500
+Dimsum Mentega, 8000
+Dimsum Mentega, 8500
+Dimsum Mentega, 9500
+Dimsum Mozarella, 11000
+Dimsum Mozarella, 11500
+Dimsum Mozarella, 12000
+Dimsum Mozarella, 12500
+Dimsum Mozarella, 13000
+Dimsum Mozarella, 13500
+Dimsum Original, 10000
+Dimsum Original, 8000
+Dimsum Original, 8500
+Dimsum Original, 9000
+Dimsum Original, 9500
+Dimsum Pedas, 10000
+Dimsum Pedas, 10500
+Dimsum Pedas, 8000
+Dimsum Pedas, 8500
+Dimsum Pedas, 9000
+Dimsum Pedas, 9500
+Dimsum Penyet, 10500
+Dimsum Penyet, 8000
+Dimsum Penyet, 8500
+Dimsum Rica-rica, 10000
+Dimsum Rica-rica, 10500
+Dimsum Rica-rica, 8500
+Dimsum Rica-rica, 9000
+Dimsum Rica-rica, 9500
+Dimsum Sapi, 8000
+Dimsum Sapi, 8500
+Dimsum Sapi, 9000
+Dimsum Sapi, 9500
+Dimsum Seafood, 10500
+Dimsum Seafood, 8000
+Dimsum Seafood, 8500
+Dimsum Seafood, 9500
+Dimsum Spesial, 12000
+Dimsum Spesial, 13500
+Dimsum Spesial, 14000
+Dimsum Spesial, 14500
+Dimsum Telur, 10000
+Dimsum Telur, 10500
+Dimsum Telur, 8000
+Dimsum Telur, 8500
+Dimsum, 10000
+Dimsum, 10500
+Dimsum, 8000
+Dimsum, 8500
+Dimsum, 9000
+Dimsum, 9500
+Donat Asam Manis, 10500
+Donat Asam Manis, 8500
+Donat Asam Manis, 9500
+Donat Ati Ampela, 10500
+Donat Ati Ampela, 8000
+Donat Ati Ampela, 8500
+Donat Ati Ampela, 9000
+Donat Ati Ampela, 9500
+Donat Ayam, 10000
+Donat Ayam, 10500
+Donat Ayam, 8000
+Donat Ayam, 8500
+Donat Ayam, 9000
+Donat Ayam, 9500
+Donat Balado, 10500
+Donat Balado, 8000
+Donat Balado, 8500
+Donat Balado, 9000
+Donat Geprek, 10000
+Donat Geprek, 10500
+Donat Geprek, 8000
+Donat Geprek, 8500
+Donat Geprek, 9000
+Donat Geprek, 9500
+Donat Jumbo, 13500
+Donat Jumbo, 14000
+Donat Jumbo, 14500
+Donat Jumbo, 15000
+Donat Jumbo, 15500
+Donat Kecap, 10000
+Donat Kecap, 8000
+Donat Kecap, 8500
+Donat Kecap, 9000
+Donat Keju, 12000
+Donat Keju, 12500
+Donat Keju, 13000
+Donat Keju, 13500
+Donat Komplit, 13000
+Donat Komplit, 14000
+Donat Kornet, 10500
+Donat Kornet, 9500
+Donat Lada Hitam, 10000
+Donat Lada Hitam, 10500
+Donat Lada Hitam, 8000
+Donat Lada Hitam, 8500
+Donat Lada Hitam, 9000
+Donat Lada Hitam, 9500
+Donat Mentega, 10000
+Donat Mentega, 10500
+Donat Mentega, 8000
+Donat Mentega, 8500
+Donat Mentega, 9000
+Donat Mozarella, 11000
+Donat Mozarella, 12500
+Donat Mozarella, 13000
+Donat Mozarella, 13500
+Donat Original, 10500
+Donat Original, 8000
+Donat Original, 8500
+Donat Original, 9000
+Donat Original, 9500
+Donat Pedas, 10000
+Donat Pedas, 8000
+Donat Pedas, 8500
+Donat Pedas, 9500
+Donat Penyet, 10500
+Donat Penyet, 8500
+Donat Penyet, 9000
+Donat Penyet, 9500
+Donat Rica-rica, 10000
+Donat Rica-rica, 10500
+Donat Rica-rica, 8000
+Donat Rica-rica, 9000
+Donat Sapi, 10000
+Donat Sapi, 10500
+Donat Sapi, 8000
+Donat Sapi, 8500
+Donat Sapi, 9000
+Donat Seafood, 10000
+Donat Seafood, 10500
+Donat Seafood, 8000
+Donat Seafood, 9000
+Donat Seafood, 9500
+Donat Spesial, 12500
+Donat Spesial, 13000
+Donat Spesial, 13500
+Donat Spesial, 14000
+Donat Spesial, 14500
+Donat Telur, 10000
+Donat Telur, 8000
+Donat Telur, 9000
+Donat Telur, 9500
+Donat, 10000
+Donat, 10500
+Donat, 8000
+Donat, 8500
+Donat, 9000
+Donat, 9500
+Es Jeruk Cincau, 5000
+Es Jeruk Cincau, 5500
+Es Jeruk Cincau, 6000
+Es Jeruk Cincau, 6500
+Es Jeruk Cincau, 7000
+Es Jeruk Cincau, 7500
+Es Jeruk Gula Aren, 5000
+Es Jeruk Gula Aren, 5500
+Es Jeruk Gula Aren, 6000
+Es Jeruk Gula Aren, 6500
+Es Jeruk Gula Aren, 7000
+Es Jeruk Gula Aren, 7500
+Es Jeruk Jelly, 5000
+Es Jeruk Jelly, 5500
+Es Jeruk Jelly, 6000
+Es Jeruk Jelly, 6500
+Es Jeruk Jelly, 7000
+Es Jeruk Jelly, 7500
+Es Jeruk Large, 10000
+Es Jeruk Large, 10500
+Es Jeruk Large, 11000
+Es Jeruk Large, 11500
+Es Jeruk Large, 12000
+Es Jeruk Large, 12500
+Es Jeruk, 5000
+Es Jeruk, 5500
+Es Jeruk, 6000
+Es Jeruk, 6500
+Es Jeruk, 7000
+Es Jeruk, 7500
+Es Teh Cincau, 5000
+Es Teh Cincau, 5500
+Es Teh Cincau, 6000
+Es Teh Cincau, 6500
+Es Teh Cincau, 7000
+Es Teh Cincau, 7500
+Es Teh Gula Aren, 5000
+Es Teh Gula Aren, 5500
+Es Teh Gula Aren, 6000
+Es Teh Gula Aren, 6500
+Es Teh Gula Aren, 7000
+Es Teh Gula Aren, 7500
+Es Teh Jelly, 5000
+Es Teh Jelly, 5500
+Es Teh Jelly, 6000
+Es Teh Jelly, 6500
+Es Teh Jelly, 7000
+Es Teh Jelly, 7500
+Es Teh Large, 10000
+Es Teh Large, 10500
+Es Teh Large, 11000
+Es Teh Large, 11500
+Es Teh Large, 12000
+Es Teh Large, 12500
+Es Teh, 5000
+Es Teh, 5500
+Es Teh, 6000
+Es Teh, 6500
+Es Teh, 7000
+Es Teh, 7500
+Fish and Chips Asam Manis, 10000
+Fish and Chips Asam Manis, 11000
+Fish and Chips Asam Manis, 12000
+Fish and Chips Asam Manis, 12500
+Fish and Chips Ati Ampela, 10500
+Fish and Chips Ati Ampela, 12000
+Fish and Chips Ati Ampela, 12500
+Fish and Chips Ayam, 22000
+Fish and Chips Ayam, 22500
+Fish and Chips Ayam, 23000
+Fish and Chips Ayam, 23500
+Fish and Chips Ayam, 24000
+Fish and Chips Ayam, 24500
+Fish and Chips Balado, 11000
+Fish and Chips Balado, 11500
+Fish and Chips Balado, 12000
+Fish and Chips Balado, 12500
+Fish and Chips Geprek, 10000
+Fish and Chips Geprek, 10500
+Fish and Chips Geprek, 11000
+Fish and Chips Geprek, 12000
+Fish and Chips Geprek, 12500
+Fish and Chips Jumbo, 15000
+Fish and Chips Jumbo, 16000
+Fish and Chips Jumbo, 17000
+Fish and Chips Jumbo, 17500
+Fish and Chips Kecap, 11000
+Fish and Chips Kecap, 11500
+Fish and Chips Kecap, 12500
+Fish and Chips Keju, 14000
+Fish and Chips Keju, 14500
+Fish and Chips Keju, 15000
+Fish and Chips Komplit, 14000
+Fish and Chips Komplit, 14500
+Fish and Chips Komplit, 15000
+Fish and Chips Komplit, 15500
+Fish and Chips Komplit, 16500
+Fish and Chips Kornet, 10000
+Fish and Chips Kornet, 10500
+Fish and Chips Kornet, 11000
+Fish and Chips Kornet, 12000
+Fish and Chips Kornet, 12500
+Fish and Chips Lada Hitam, 10500
+Fish and Chips Lada Hitam, 11000
+Fish and Chips Lada Hitam, 12000
+Fish and Chips Lada Hitam, 12500
+Fish and Chips Mentega, 10000
+Fish and Chips Mentega, 10500
+Fish and Chips Mentega, 12000
+Fish and Chips Mentega, 12500
+Fish and Chips Mozarella, 13000
+Fish and Chips Mozarella, 13500
+Fish and Chips Mozarella, 14000
+Fish and Chips Mozarella, 14500
+Fish and Chips Mozarella, 15000
+Fish and Chips Mozarella, 15500
+Fish and Chips Original, 10500
+Fish and Chips Original, 11000
+Fish and Chips Original, 11500
+Fish and Chips Original, 12000
+Fish and Chips Original, 12500
+Fish and Chips Pedas, 10000
+Fish and Chips Pedas, 10500
+Fish and Chips Pedas, 11000
+Fish and Chips Pedas, 11500
+Fish and Chips Pedas, 12000
+Fish and Chips Pedas, 12500
+Fish and Chips Penyet, 10000
+Fish and Chips Penyet, 10500
+Fish and Chips Penyet, 11000
+Fish and Chips Penyet, 12000
+Fish and Chips Penyet, 12500
+Fish and Chips Rica-rica, 10000
+Fish and Chips Rica-rica, 10500
+Fish and Chips Rica-rica, 11000
+Fish and Chips Rica-rica, 11500
+Fish and Chips Rica-rica, 12000
+Fish and Chips Rica-rica, 12500
+Fish and Chips Sapi, 35000
+Fish and Chips Sapi, 35500
+Fish and Chips Sapi, 36000
+Fish and Chips Sapi, 37000
+Fish and Chips Sapi, 37500
+Fish and Chips Seafood, 28000
+Fish and Chips Seafood, 28500
+Fish and Chips Seafood, 29000
+Fish and Chips Seafood, 29500
+Fish and Chips Seafood, 30000
+Fish and Chips Spesial, 14000
+Fish and Chips Spesial, 14500
+Fish and Chips Spesial, 15500
+Fish and Chips Spesial, 16000
+Fish and Chips Spesial, 16500
+Fish and Chips Telur, 10000
+Fish and Chips Telur, 10500
+Fish and Chips Telur, 11000
+Fish and Chips Telur, 11500
+Fish and Chips Telur, 12000
+Fish and Chips Telur, 12500
+Fish and Chips, 10000
+Fish and Chips, 10500
+Fish and Chips, 11000
+Fish and Chips, 11500
+Fish and Chips, 12000
+Fish and Chips, 12500
+Gado-gado Asam Manis, 10000
+Gado-gado Asam Manis, 10500
+Gado-gado Asam Manis, 11000
+Gado-gado Asam Manis, 11500
+Gado-gado Asam Manis, 12000
+Gado-gado Asam Manis, 12500
+Gado-gado Ati Ampela, 10000
+Gado-gado Ati Ampela, 11500
+Gado-gado Ati Ampela, 12000
+Gado-gado Ati Ampela, 12500
+Gado-gado Ayam, 22000
+Gado-gado Ayam, 22500
+Gado-gado Ayam, 23000
+Gado-gado Ayam, 23500
+Gado-gado Ayam, 24500
+Gado-gado Balado, 10000
+Gado-gado Balado, 10500
+Gado-gado Balado, 11500
+Gado-gado Balado, 12500
+Gado-gado Geprek, 10000
+Gado-gado Geprek, 11000
+Gado-gado Geprek, 11500
+Gado-gado Geprek, 12000
+Gado-gado Jumbo, 15000
+Gado-gado Jumbo, 15500
+Gado-gado Jumbo, 16000
+Gado-gado Jumbo, 16500
+Gado-gado Jumbo, 17000
+Gado-gado Kecap, 10000
+Gado-gado Kecap, 10500
+Gado-gado Kecap, 11000
+Gado-gado Kecap, 11500
+Gado-gado Kecap, 12000
+Gado-gado Keju, 13000
+Gado-gado Keju, 13500
+Gado-gado Keju, 14000
+Gado-gado Keju, 15000
+Gado-gado Komplit, 14500
+Gado-gado Komplit, 15000
+Gado-gado Komplit, 15500
+Gado-gado Komplit, 16500
+Gado-gado Kornet, 10000
+Gado-gado Kornet, 10500
+Gado-gado Kornet, 12000
+Gado-gado Kornet, 12500
+Gado-gado Lada Hitam, 10000
+Gado-gado Lada Hitam, 10500
+Gado-gado Lada Hitam, 11500
+Gado-gado Lada Hitam, 12000
+Gado-gado Lada Hitam, 12500
+Gado-gado Mentega, 10000
+Gado-gado Mentega, 10500
+Gado-gado Mentega, 11000
+Gado-gado Mentega, 11500
+Gado-gado Mentega, 12000
+Gado-gado Mentega, 12500
+Gado-gado Mozarella, 13000
+Gado-gado Mozarella, 13500
+Gado-gado Mozarella, 14500
+Gado-gado Mozarella, 15000
+Gado-gado Original, 10000
+Gado-gado Original, 10500
+Gado-gado Original, 11000
+Gado-gado Original, 11500
+Gado-gado Original, 12000
+Gado-gado Original, 12500
+Gado-gado Pedas, 10000
+Gado-gado Pedas, 10500
+Gado-gado Pedas, 11500
+Gado-gado Pedas, 12500
+Gado-gado Penyet, 10000
+Gado-gado Penyet, 10500
+Gado-gado Penyet, 11000
+Gado-gado Penyet, 11500
+Gado-gado Penyet, 12000
+Gado-gado Penyet, 12500
+Gado-gado Rica-rica, 10000
+Gado-gado Rica-rica, 10500
+Gado-gado Rica-rica, 11000
+Gado-gado Rica-rica, 11500
+Gado-gado Rica-rica, 12500
+Gado-gado Sapi, 35000
+Gado-gado Sapi, 35500
+Gado-gado Sapi, 36000
+Gado-gado Sapi, 36500
+Gado-gado Sapi, 37500
+Gado-gado Seafood, 28000
+Gado-gado Seafood, 28500
+Gado-gado Seafood, 29000
+Gado-gado Seafood, 30000
+Gado-gado Seafood, 30500
+Gado-gado Spesial, 14000
+Gado-gado Spesial, 16000
+Gado-gado Spesial, 16500
+Gado-gado Telur, 10000
+Gado-gado Telur, 10500
+Gado-gado Telur, 11000
+Gado-gado Telur, 11500
+Gado-gado Telur, 12000
+Gado-gado Telur, 12500
+Gado-gado, 10000
+Gado-gado, 10500
+Gado-gado, 11000
+Gado-gado, 11500
+Gado-gado, 12000
+Gado-gado, 12500
+Ikan Bakar Asam Manis, 22000
+Ikan Bakar Asam Manis, 23000
+Ikan Bakar Asam Manis, 23500
+Ikan Bakar Ati Ampela, 22000
+Ikan Bakar Ati Ampela, 22500
+Ikan Bakar Ati Ampela, 23000
+Ikan Bakar Ati Ampela, 23500
+Ikan Bakar Ati Ampela, 24000
+Ikan Bakar Ati Ampela, 24500
+Ikan Bakar Ayam, 22000
+Ikan Bakar Ayam, 22500
+Ikan Bakar Ayam, 23000
+Ikan Bakar Ayam, 23500
+Ikan Bakar Ayam, 24000
+Ikan Bakar Balado, 22000
+Ikan Bakar Balado, 22500
+Ikan Bakar Balado, 24500
+Ikan Bakar Geprek, 22000
+Ikan Bakar Geprek, 22500
+Ikan Bakar Geprek, 23000
+Ikan Bakar Geprek, 23500
+Ikan Bakar Geprek, 24000
+Ikan Bakar Jumbo, 27000
+Ikan Bakar Jumbo, 27500
+Ikan Bakar Jumbo, 28000
+Ikan Bakar Jumbo, 28500
+Ikan Bakar Jumbo, 29000
+Ikan Bakar Jumbo, 29500
+Ikan Bakar Kecap, 22000
+Ikan Bakar Kecap, 23000
+Ikan Bakar Kecap, 23500
+Ikan Bakar Kecap, 24000
+Ikan Bakar Kecap, 24500
+Ikan Bakar Keju, 25000
+Ikan Bakar Keju, 25500
+Ikan Bakar Keju, 26000
+Ikan Bakar Keju, 26500
+Ikan Bakar Keju, 27000
+Ikan Bakar Keju, 27500
+Ikan Bakar Komplit, 26000
+Ikan Bakar Komplit, 26500
+Ikan Bakar Komplit, 27000
+Ikan Bakar Komplit, 27500
+Ikan Bakar Komplit, 28000
+Ikan Bakar Komplit, 28500
+Ikan Bakar Kornet, 22000
+Ikan Bakar Kornet, 22500
+Ikan Bakar Kornet, 23000
+Ikan Bakar Kornet, 23500
+Ikan Bakar Kornet, 24000
+Ikan Bakar Kornet, 24500
+Ikan Bakar Lada Hitam, 22000
+Ikan Bakar Lada Hitam, 22500
+Ikan Bakar Lada Hitam, 23000
+Ikan Bakar Lada Hitam, 23500
+Ikan Bakar Lada Hitam, 24000
+Ikan Bakar Mentega, 22000
+Ikan Bakar Mentega, 22500
+Ikan Bakar Mentega, 23000
+Ikan Bakar Mentega, 23500
+Ikan Bakar Mentega, 24000
+Ikan Bakar Mozarella, 25000
+Ikan Bakar Mozarella, 26500
+Ikan Bakar Mozarella, 27500
+Ikan Bakar Original, 22000
+Ikan Bakar Original, 23000
+Ikan Bakar Pedas, 22000
+Ikan Bakar Pedas, 22500
+Ikan Bakar Pedas, 23000
+Ikan Bakar Pedas, 23500
+Ikan Bakar Pedas, 24000
+Ikan Bakar Pedas, 24500
+Ikan Bakar Penyet, 22500
+Ikan Bakar Penyet, 23000
+Ikan Bakar Penyet, 23500
+Ikan Bakar Penyet, 24500
+Ikan Bakar Rica-rica, 22500
+Ikan Bakar Rica-rica, 23000
+Ikan Bakar Rica-rica, 24000
+Ikan Bakar Sapi, 35000
+Ikan Bakar Sapi, 35500
+Ikan Bakar Sapi, 36000
+Ikan Bakar Sapi, 36500
+Ikan Bakar Sapi, 37500
+Ikan Bakar Seafood, 28000
+Ikan Bakar Seafood, 28500
+Ikan Bakar Seafood, 29000
+Ikan Bakar Seafood, 29500
+Ikan Bakar Seafood, 30500
+Ikan Bakar Spesial, 26000
+Ikan Bakar Spesial, 26500
+Ikan Bakar Spesial, 27000
+Ikan Bakar Spesial, 27500
+Ikan Bakar Spesial, 28500
+Ikan Bakar Telur, 22000
+Ikan Bakar Telur, 22500
+Ikan Bakar Telur, 23000
+Ikan Bakar Telur, 24000
+Ikan Bakar Telur, 24500
+Ikan Bakar, 22000
+Ikan Bakar, 22500
+Ikan Bakar, 23000
+Ikan Bakar, 23500
+Ikan Bakar, 24000
+Ikan Bakar, 24500
+Jus Cincau, 5000
+Jus Cincau, 5500
+Jus Cincau, 6000
+Jus Cincau, 6500
+Jus Cincau, 7000
+Jus Cincau, 7500
+Jus Gula Aren, 5000
+Jus Gula Aren, 5500
+Jus Gula Aren, 6000
+Jus Gula Aren, 6500
+Jus Gula Aren, 7000
+Jus Gula Aren, 7500
+Jus Jelly, 5000
+Jus Jelly, 5500
+Jus Jelly, 6000
+Jus Jelly, 6500
+Jus Jelly, 7000
+Jus Jelly, 7500
+Jus Large, 10000
+Jus Large, 10500
+Jus Large, 11000
+Jus Large, 11500
+Jus Large, 12000
+Jus Large, 12500
+Jus, 5000
+Jus, 5500
+Jus, 6000
+Jus, 6500
+Jus, 7000
+Jus, 7500
+Kentang Goreng Asam Manis, 10000
+Kentang Goreng Asam Manis, 8500
+Kentang Goreng Asam Manis, 9500
+Kentang Goreng Ati Ampela, 10000
+Kentang Goreng Ati Ampela, 10500
+Kentang Goreng Ati Ampela, 8000
+Kentang Goreng Ati Ampela, 9000
+Kentang Goreng Ati Ampela, 9500
+Kentang Goreng Ayam, 10000
+Kentang Goreng Ayam, 10500
+Kentang Goreng Ayam, 8000
+Kentang Goreng Ayam, 8500
+Kentang Goreng Ayam, 9000
+Kentang Goreng Ayam, 9500
+Kentang Goreng Balado, 10000
+Kentang Goreng Balado, 10500
+Kentang Goreng Balado, 8000
+Kentang Goreng Balado, 9000
+Kentang Goreng Balado, 9500
+Kentang Goreng Geprek, 10000
+Kentang Goreng Geprek, 10500
+Kentang Goreng Geprek, 8500
+Kentang Goreng Jumbo, 13000
+Kentang Goreng Jumbo, 13500
+Kentang Goreng Jumbo, 14000
+Kentang Goreng Jumbo, 14500
+Kentang Goreng Jumbo, 15000
+Kentang Goreng Jumbo, 15500
+Kentang Goreng Kecap, 10500
+Kentang Goreng Kecap, 8000
+Kentang Goreng Kecap, 8500
+Kentang Goreng Kecap, 9000
+Kentang Goreng Keju, 11000
+Kentang Goreng Keju, 11500
+Kentang Goreng Keju, 12000
+Kentang Goreng Keju, 12500
+Kentang Goreng Keju, 13000
+Kentang Goreng Keju, 13500
+Kentang Goreng Komplit, 12000
+Kentang Goreng Komplit, 12500
+Kentang Goreng Komplit, 13000
+Kentang Goreng Komplit, 13500
+Kentang Goreng Komplit, 14500
+Kentang Goreng Kornet, 10000
+Kentang Goreng Kornet, 10500
+Kentang Goreng Kornet, 8000
+Kentang Goreng Kornet, 8500
+Kentang Goreng Kornet, 9500
+Kentang Goreng Lada Hitam, 10000
+Kentang Goreng Lada Hitam, 10500
+Kentang Goreng Lada Hitam, 8000
+Kentang Goreng Lada Hitam, 8500
+Kentang Goreng Lada Hitam, 9000
+Kentang Goreng Lada Hitam, 9500
+Kentang Goreng Mentega, 10000
+Kentang Goreng Mentega, 10500
+Kentang Goreng Mentega, 8000
+Kentang Goreng Mentega, 8500
+Kentang Goreng Mentega, 9000
+Kentang Goreng Mentega, 9500
+Kentang Goreng Mozarella, 11500
+Kentang Goreng Mozarella, 12000
+Kentang Goreng Mozarella, 12500
+Kentang Goreng Mozarella, 13000
+Kentang Goreng Mozarella, 13500
+Kentang Goreng Original, 10000
+Kentang Goreng Original, 10500
+Kentang Goreng Original, 8000
+Kentang Goreng Original, 8500
+Kentang Goreng Original, 9000
+Kentang Goreng Pedas, 10000
+Kentang Goreng Pedas, 10500
+Kentang Goreng Pedas, 8000
+Kentang Goreng Pedas, 8500
+Kentang Goreng Pedas, 9000
+Kentang Goreng Pedas, 9500
+Kentang Goreng Penyet, 10000
+Kentang Goreng Penyet, 10500
+Kentang Goreng Penyet, 8000
+Kentang Goreng Penyet, 8500
+Kentang Goreng Penyet, 9000
+Kentang Goreng Penyet, 9500
+Kentang Goreng Rica-rica, 10500
+Kentang Goreng Rica-rica, 8000
+Kentang Goreng Rica-rica, 8500
+Kentang Goreng Rica-rica, 9000
+Kentang Goreng Sapi, 10000
+Kentang Goreng Sapi, 10500
+Kentang Goreng Sapi, 8000
+Kentang Goreng Sapi, 8500
+Kentang Goreng Sapi, 9000
+Kentang Goreng Sapi, 9500
+Kentang Goreng Seafood, 10000
+Kentang Goreng Seafood, 10500
+Kentang Goreng Seafood, 8000
+Kentang Goreng Seafood, 8500
+Kentang Goreng Seafood, 9000
+Kentang Goreng Seafood, 9500
+Kentang Goreng Spesial, 12000
+Kentang Goreng Spesial, 12500
+Kentang Goreng Spesial, 13000
+Kentang Goreng Spesial, 13500
+Kentang Goreng Spesial, 14000
+Kentang Goreng Spesial, 14500
+Kentang Goreng Telur, 10000
+Kentang Goreng Telur, 10500
+Kentang Goreng Telur, 8000
+Kentang Goreng Telur, 8500
+Kentang Goreng Telur, 9000
+Kentang Goreng Telur, 9500
+Kentang Goreng, 10000
+Kentang Goreng, 10500
+Kentang Goreng, 8000
+Kentang Goreng, 8500
+Kentang Goreng, 9000
+Kentang Goreng, 9500
+Kopi Hitam Cincau, 5000
+Kopi Hitam Cincau, 5500
+Kopi Hitam Cincau, 6000
+Kopi Hitam Cincau, 6500
+Kopi Hitam Cincau, 7000
+Kopi Hitam Cincau, 7500
+Kopi Hitam Gula Aren, 5000
+Kopi Hitam Gula Aren, 5500
+Kopi Hitam Gula Aren, 6000
+Kopi Hitam Gula Aren, 6500
+Kopi Hitam Gula Aren, 7000
+Kopi Hitam Gula Aren, 7500
+Kopi Hitam Jelly, 5000
+Kopi Hitam Jelly, 5500
+Kopi Hitam Jelly, 6000
+Kopi Hitam Jelly, 6500
+Kopi Hitam Jelly, 7000
+Kopi Hitam Jelly, 7500
+Kopi Hitam Large, 10000
+Kopi Hitam Large, 10500
+Kopi Hitam Large, 11000
+Kopi Hitam Large, 11500
+Kopi Hitam Large, 12000
+Kopi Hitam Large, 12500
+Kopi Hitam, 5000
+Kopi Hitam, 5500
+Kopi Hitam, 6000
+Kopi Hitam, 6500
+Kopi Hitam, 7000
+Kopi Hitam, 7500
+Kopi Susu Cincau, 5000
+Kopi Susu Cincau, 5500
+Kopi Susu Cincau, 6000
+Kopi Susu Cincau, 6500
+Kopi Susu Cincau, 7000
+Kopi Susu Cincau, 7500
+Kopi Susu Gula Aren, 5000
+Kopi Susu Gula Aren, 5500
+Kopi Susu Gula Aren, 6000
+Kopi Susu Gula Aren, 6500
+Kopi Susu Gula Aren, 7000
+Kopi Susu Gula Aren, 7500
+Kopi Susu Jelly, 5000
+Kopi Susu Jelly, 5500
+Kopi Susu Jelly, 6000
+Kopi Susu Jelly, 6500
+Kopi Susu Jelly, 7000
+Kopi Susu Jelly, 7500
+Kopi Susu Large, 10000
+Kopi Susu Large, 10500
+Kopi Susu Large, 11000
+Kopi Susu Large, 11500
+Kopi Susu Large, 12000
+Kopi Susu Large, 12500
+Kopi Susu, 5000
+Kopi Susu, 5500
+Kopi Susu, 6000
+Kopi Susu, 6500
+Kopi Susu, 7000
+Kopi Susu, 7500
+Kwetiau Asam Manis, 10000
+Kwetiau Asam Manis, 11000
+Kwetiau Asam Manis, 12000
+Kwetiau Ati Ampela, 10000
+Kwetiau Ati Ampela, 11500
+Kwetiau Ati Ampela, 12000
+Kwetiau Ati Ampela, 12500
+Kwetiau Ayam, 23000
+Kwetiau Ayam, 23500
+Kwetiau Ayam, 24000
+Kwetiau Balado, 10000
+Kwetiau Balado, 10500
+Kwetiau Balado, 11000
+Kwetiau Balado, 11500
+Kwetiau Balado, 12000
+Kwetiau Balado, 12500
+Kwetiau Geprek, 10000
+Kwetiau Geprek, 10500
+Kwetiau Geprek, 11000
+Kwetiau Geprek, 11500
+Kwetiau Geprek, 12500
+Kwetiau Jumbo, 15000
+Kwetiau Jumbo, 15500
+Kwetiau Jumbo, 16500
+Kwetiau Jumbo, 17000
+Kwetiau Kecap, 10000
+Kwetiau Kecap, 10500
+Kwetiau Kecap, 11000
+Kwetiau Kecap, 11500
+Kwetiau Kecap, 12000
+Kwetiau Kecap, 12500
+Kwetiau Keju, 13000
+Kwetiau Keju, 14000
+Kwetiau Keju, 14500
+Kwetiau Keju, 15500
+Kwetiau Komplit, 14500
+Kwetiau Komplit, 15000
+Kwetiau Komplit, 15500
+Kwetiau Komplit, 16000
+Kwetiau Komplit, 16500
+Kwetiau Kornet, 10500
+Kwetiau Kornet, 11500
+Kwetiau Lada Hitam, 10500
+Kwetiau Lada Hitam, 11000
+Kwetiau Lada Hitam, 12000
+Kwetiau Mentega, 10000
+Kwetiau Mentega, 10500
+Kwetiau Mentega, 11000
+Kwetiau Mentega, 11500
+Kwetiau Mentega, 12000
+Kwetiau Mozarella, 13000
+Kwetiau Mozarella, 13500
+Kwetiau Mozarella, 14500
+Kwetiau Mozarella, 15000
+Kwetiau Original, 10000
+Kwetiau Original, 11000
+Kwetiau Original, 12000
+Kwetiau Pedas, 10000
+Kwetiau Pedas, 10500
+Kwetiau Pedas, 12000
+Kwetiau Pedas, 12500
+Kwetiau Penyet, 10500
+Kwetiau Penyet, 11000
+Kwetiau Penyet, 11500
+Kwetiau Penyet, 12000
+Kwetiau Penyet, 12500
+Kwetiau Rica-rica, 10000
+Kwetiau Rica-rica, 10500
+Kwetiau Rica-rica, 11000
+Kwetiau Rica-rica, 11500
+Kwetiau Rica-rica, 12000
+Kwetiau Rica-rica, 12500
+Kwetiau Sapi, 35000
+Kwetiau Sapi, 35500
+Kwetiau Sapi, 36000
+Kwetiau Sapi, 36500
+Kwetiau Sapi, 37000
+Kwetiau Sapi, 37500
+Kwetiau Seafood, 28000
+Kwetiau Seafood, 28500
+Kwetiau Seafood, 29000
+Kwetiau Seafood, 30000
+Kwetiau Spesial, 14000
+Kwetiau Spesial, 14500
+Kwetiau Spesial, 16000
+Kwetiau Spesial, 16500
+Kwetiau Telur, 10000
+Kwetiau Telur, 10500
+Kwetiau Telur, 11000
+Kwetiau Telur, 11500
+Kwetiau Telur, 12000
+Kwetiau Telur, 12500
+Kwetiau, 10000
+Kwetiau, 10500
+Kwetiau, 11000
+Kwetiau, 11500
+Kwetiau, 12000
+Kwetiau, 12500
+Latte Cincau, 5000
+Latte Cincau, 5500
+Latte Cincau, 6000
+Latte Cincau, 6500
+Latte Cincau, 7000
+Latte Cincau, 7500
+Latte Gula Aren, 5000
+Latte Gula Aren, 5500
+Latte Gula Aren, 6500
+Latte Gula Aren, 7000
+Latte Gula Aren, 7500
+Latte Jelly, 5000
+Latte Jelly, 5500
+Latte Jelly, 6000
+Latte Jelly, 6500
+Latte Jelly, 7000
+Latte Jelly, 7500
+Latte Large, 10000
+Latte Large, 10500
+Latte Large, 11000
+Latte Large, 11500
+Latte Large, 12000
+Latte Large, 12500
+Latte, 5000
+Latte, 5500
+Latte, 6000
+Latte, 6500
+Latte, 7000
+Latte, 7500
+Lele Goreng Asam Manis, 10000
+Lele Goreng Asam Manis, 10500
+Lele Goreng Asam Manis, 11000
+Lele Goreng Asam Manis, 11500
+Lele Goreng Asam Manis, 12000
+Lele Goreng Asam Manis, 12500
+Lele Goreng Ati Ampela, 10000
+Lele Goreng Ati Ampela, 10500
+Lele Goreng Ati Ampela, 12000
+Lele Goreng Ati Ampela, 12500
+Lele Goreng Ayam, 22000
+Lele Goreng Ayam, 22500
+Lele Goreng Ayam, 23500
+Lele Goreng Ayam, 24000
+Lele Goreng Ayam, 24500
+Lele Goreng Balado, 10000
+Lele Goreng Balado, 11000
+Lele Goreng Balado, 11500
+Lele Goreng Geprek, 10000
+Lele Goreng Geprek, 10500
+Lele Goreng Geprek, 11000
+Lele Goreng Geprek, 11500
+Lele Goreng Geprek, 12500
+Lele Goreng Jumbo, 15500
+Lele Goreng Jumbo, 16500
+Lele Goreng Jumbo, 17000
+Lele Goreng Jumbo, 17500
+Lele Goreng Kecap, 10000
+Lele Goreng Kecap, 10500
+Lele Goreng Kecap, 12000
+Lele Goreng Kecap, 12500
+Lele Goreng Keju, 13000
+Lele Goreng Keju, 13500
+Lele Goreng Keju, 14000
+Lele Goreng Keju, 14500
+Lele Goreng Keju, 15000
+Lele Goreng Komplit, 16000
+Lele Goreng Komplit, 16500
+Lele Goreng Kornet, 10000
+Lele Goreng Kornet, 11000
+Lele Goreng Kornet, 12000
+Lele Goreng Kornet, 12500
+Lele Goreng Lada Hitam, 10000
+Lele Goreng Lada Hitam, 10500
+Lele Goreng Lada Hitam, 11500
+Lele Goreng Lada Hitam, 12500
+Lele Goreng Mentega, 10000
+Lele Goreng Mentega, 10500
+Lele Goreng Mentega, 11500
+Lele Goreng Mentega, 12000
+Lele Goreng Mentega, 12500
+Lele Goreng Mozarella, 13000
+Lele Goreng Mozarella, 13500
+Lele Goreng Mozarella, 14000
+Lele Goreng Mozarella, 15000
+Lele Goreng Mozarella, 15500
+Lele Goreng Original, 10000
+Lele Goreng Original, 10500
+Lele Goreng Original, 11500
+Lele Goreng Original, 12000
+Lele Goreng Original, 12500
+Lele Goreng Pedas, 10000
+Lele Goreng Pedas, 10500
+Lele Goreng Pedas, 11000
+Lele Goreng Pedas, 11500
+Lele Goreng Pedas, 12000
+Lele Goreng Pedas, 12500
+Lele Goreng Penyet, 10000
+Lele Goreng Penyet, 12000
+Lele Goreng Penyet, 12500
+Lele Goreng Rica-rica, 10000
+Lele Goreng Rica-rica, 10500
+Lele Goreng Rica-rica, 11000
+Lele Goreng Rica-rica, 11500
+Lele Goreng Rica-rica, 12000
+Lele Goreng Rica-rica, 12500
+Lele Goreng Sapi, 35500
+Lele Goreng Sapi, 36000
+Lele Goreng Sapi, 36500
+Lele Goreng Sapi, 37000
+Lele Goreng Sapi, 37500
+Lele Goreng Seafood, 28500
+Lele Goreng Seafood, 29000
+Lele Goreng Seafood, 30000
+Lele Goreng Seafood, 30500
+Lele Goreng Spesial, 14000
+Lele Goreng Spesial, 14500
+Lele Goreng Spesial, 15000
+Lele Goreng Spesial, 15500
+Lele Goreng Spesial, 16500
+Lele Goreng Telur, 10000
+Lele Goreng Telur, 10500
+Lele Goreng Telur, 11000
+Lele Goreng Telur, 12500
+Lele Goreng, 10000
+Lele Goreng, 10500
+Lele Goreng, 11000
+Lele Goreng, 11500
+Lele Goreng, 12000
+Lele Goreng, 12500
+Lemon Tea Cincau, 5000
+Lemon Tea Cincau, 5500
+Lemon Tea Cincau, 6000
+Lemon Tea Cincau, 6500
+Lemon Tea Cincau, 7000
+Lemon Tea Cincau, 7500
+Lemon Tea Gula Aren, 5000
+Lemon Tea Gula Aren, 5500
+Lemon Tea Gula Aren, 6000
+Lemon Tea Gula Aren, 6500
+Lemon Tea Gula Aren, 7000
+Lemon Tea Gula Aren, 7500
+Lemon Tea Jelly, 5000
+Lemon Tea Jelly, 5500
+Lemon Tea Jelly, 6000
+Lemon Tea Jelly, 6500
+Lemon Tea Jelly, 7000
+Lemon Tea Jelly, 7500
+Lemon Tea Large, 10000
+Lemon Tea Large, 10500
+Lemon Tea Large, 11000
+Lemon Tea Large, 11500
+Lemon Tea Large, 12000
+Lemon Tea Large, 12500
+Lemon Tea, 5000
+Lemon Tea, 5500
+Lemon Tea, 6000
+Lemon Tea, 6500
+Lemon Tea, 7000
+Lemon Tea, 7500
+Lumpia Asam Manis, 10000
+Lumpia Asam Manis, 10500
+Lumpia Asam Manis, 8500
+Lumpia Asam Manis, 9000
+Lumpia Asam Manis, 9500
+Lumpia Ati Ampela, 10000
+Lumpia Ati Ampela, 10500
+Lumpia Ati Ampela, 8000
+Lumpia Ati Ampela, 8500
+Lumpia Ati Ampela, 9000
+Lumpia Ayam, 10000
+Lumpia Ayam, 10500
+Lumpia Ayam, 8000
+Lumpia Ayam, 8500
+Lumpia Ayam, 9000
+Lumpia Balado, 10500
+Lumpia Balado, 8000
+Lumpia Balado, 9000
+Lumpia Geprek, 10000
+Lumpia Geprek, 10500
+Lumpia Geprek, 8500
+Lumpia Geprek, 9000
+Lumpia Geprek, 9500
+Lumpia Jumbo, 13000
+Lumpia Jumbo, 13500
+Lumpia Jumbo, 14000
+Lumpia Jumbo, 14500
+Lumpia Jumbo, 15000
+Lumpia Jumbo, 15500
+Lumpia Kecap, 10000
+Lumpia Kecap, 10500
+Lumpia Kecap, 8000
+Lumpia Kecap, 8500
+Lumpia Kecap, 9000
+Lumpia Kecap, 9500
+Lumpia Keju, 11500
+Lumpia Keju, 12000
+Lumpia Keju, 12500
+Lumpia Keju, 13000
+Lumpia Komplit, 12000
+Lumpia Komplit, 13000
+Lumpia Komplit, 13500
+Lumpia Komplit, 14500
+Lumpia Kornet, 10000
+Lumpia Kornet, 8500
+Lumpia Kornet, 9000
+Lumpia Kornet, 9500
+Lumpia Lada Hitam, 10000
+Lumpia Lada Hitam, 10500
+Lumpia Lada Hitam, 8500
+Lumpia Lada Hitam, 9000
+Lumpia Mentega, 10000
+Lumpia Mentega, 10500
+Lumpia Mentega, 8000
+Lumpia Mentega, 9000
+Lumpia Mentega, 9500
+Lumpia Mozarella, 11000
+Lumpia Mozarella, 12000
+Lumpia Mozarella, 12500
+Lumpia Mozarella, 13000
+Lumpia Mozarella, 13500
+Lumpia Original, 10000
+Lumpia Original, 10500
+Lumpia Original, 8000
+Lumpia Original, 8500
+Lumpia Original, 9500
+Lumpia Pedas, 10000
+Lumpia Pedas, 8000
+Lumpia Pedas, 8500
+Lumpia Pedas, 9000
+Lumpia Pedas, 9500
+Lumpia Penyet, 10000
+Lumpia Penyet, 10500
+Lumpia Penyet, 8000
+Lumpia Penyet, 8500
+Lumpia Penyet, 9500
+Lumpia Rica-rica, 10000
+Lumpia Rica-rica, 10500
+Lumpia Rica-rica, 8000
+Lumpia Rica-rica, 8500
+Lumpia Rica-rica, 9000
+Lumpia Rica-rica, 9500
+Lumpia Sapi, 10500
+Lumpia Sapi, 8000
+Lumpia Sapi, 8500
+Lumpia Sapi, 9500
+Lumpia Seafood, 10000
+Lumpia Seafood, 10500
+Lumpia Seafood, 8000
+Lumpia Seafood, 8500
+Lumpia Seafood, 9000
+Lumpia Seafood, 9500
+Lumpia Spesial, 12000
+Lumpia Spesial, 12500
+Lumpia Spesial, 13000
+Lumpia Spesial, 13500
+Lumpia Telur, 10000
+Lumpia Telur, 10500
+Lumpia Telur, 8500
+Lumpia Telur, 9500
+Lumpia, 10000
+Lumpia, 10500
+Lumpia, 8000
+Lumpia, 8500
+Lumpia, 9000
+Lumpia, 9500
+Mie Ayam Asam Manis, 22500
+Mie Ayam Asam Manis, 23500
+Mie Ayam Asam Manis, 24000
+Mie Ayam Asam Manis, 24500
+Mie Ayam Ati Ampela, 22500
+Mie Ayam Ati Ampela, 23000
+Mie Ayam Ati Ampela, 23500
+Mie Ayam Ati Ampela, 24500
+Mie Ayam Ayam, 22000
+Mie Ayam Ayam, 22500
+Mie Ayam Ayam, 23000
+Mie Ayam Ayam, 23500
+Mie Ayam Ayam, 24000
+Mie Ayam Ayam, 24500
+Mie Ayam Balado, 22000
+Mie Ayam Balado, 23500
+Mie Ayam Balado, 24000
+Mie Ayam Geprek, 22000
+Mie Ayam Geprek, 22500
+Mie Ayam Geprek, 24000
+Mie Ayam Geprek, 24500
+Mie Ayam Jumbo, 27000
+Mie Ayam Jumbo, 27500
+Mie Ayam Jumbo, 28000
+Mie Ayam Jumbo, 28500
+Mie Ayam Jumbo, 29000
+Mie Ayam Jumbo, 29500
+Mie Ayam Kecap, 22000
+Mie Ayam Kecap, 22500
+Mie Ayam Kecap, 23000
+Mie Ayam Kecap, 24000
+Mie Ayam Kecap, 24500
+Mie Ayam Keju, 25000
+Mie Ayam Keju, 25500
+Mie Ayam Keju, 26500
+Mie Ayam Keju, 27000
+Mie Ayam Komplit, 26000
+Mie Ayam Komplit, 26500
+Mie Ayam Komplit, 27000
+Mie Ayam Komplit, 27500
+Mie Ayam Komplit, 28500
+Mie Ayam Kornet, 22000
+Mie Ayam Kornet, 22500
+Mie Ayam Kornet, 23500
+Mie Ayam Kornet, 24500
+Mie Ayam Lada Hitam, 22000
+Mie Ayam Lada Hitam, 22500
+Mie Ayam Lada Hitam, 23000
+Mie Ayam Lada Hitam, 23500
+Mie Ayam Lada Hitam, 24500
+Mie Ayam Mentega, 22000
+Mie Ayam Mentega, 22500
+Mie Ayam Mentega, 23000
+Mie Ayam Mentega, 23500
+Mie Ayam Mozarella, 25500
+Mie Ayam Mozarella, 26500
+Mie Ayam Mozarella, 27500
+Mie Ayam Original, 22000
+Mie Ayam Original, 22500
+Mie Ayam Original, 23000
+Mie Ayam Original, 23500
+Mie Ayam Original, 24000
+Mie Ayam Original, 24500
+Mie Ayam Pedas, 22000
+Mie Ayam Pedas, 22500
+Mie Ayam Pedas, 23000
+Mie Ayam Pedas, 23500
+Mie Ayam Penyet, 22000
+Mie Ayam Penyet, 22500
+Mie Ayam Penyet, 23000
+Mie Ayam Penyet, 23500
+Mie Ayam Penyet, 24500
+Mie Ayam Rica-rica, 22500
+Mie Ayam Rica-rica, 23000
+Mie Ayam Rica-rica, 23500
+Mie Ayam Rica-rica, 24500
+Mie Ayam Sapi, 35000
+Mie Ayam Sapi, 36000
+Mie Ayam Sapi, 36500
+Mie Ayam Sapi, 37000
+Mie Ayam Seafood, 28000
+Mie Ayam Seafood, 28500
+Mie Ayam Seafood, 29000
+Mie Ayam Seafood, 29500
+Mie Ayam Seafood, 30500
+Mie Ayam Spesial, 26000
+Mie Ayam Spesial, 26500
+Mie Ayam Spesial, 27000
+Mie Ayam Spesial, 27500
+Mie Ayam Spesial, 28000
+Mie Ayam Telur, 22000
+Mie Ayam Telur, 22500
+Mie Ayam Telur, 23000
+Mie Ayam Telur, 23500
+Mie Ayam Telur, 24000
+Mie Ayam Telur, 24500
+Mie Ayam, 22000
+Mie Ayam, 22500
+Mie Ayam, 23000
+Mie Ayam, 23500
+Mie Ayam, 24000
+Mie Ayam, 24500
+Mie Goreng Asam Manis, 10000
+Mie Goreng Asam Manis, 10500
+Mie Goreng Asam Manis, 11000
+Mie Goreng Asam Manis, 11500
+Mie Goreng Asam Manis, 12000
+Mie Goreng Asam Manis, 12500
+Mie Goreng Ati Ampela, 10000
+Mie Goreng Ati Ampela, 10500
+Mie Goreng Ati Ampela, 11000
+Mie Goreng Ati Ampela, 11500
+Mie Goreng Ati Ampela, 12000
+Mie Goreng Ati Ampela, 12500
+Mie Goreng Ayam, 22500
+Mie Goreng Ayam, 23000
+Mie Goreng Ayam, 23500
+Mie Goreng Ayam, 24000
+Mie Goreng Ayam, 24500
+Mie Goreng Balado, 10000
+Mie Goreng Balado, 10500
+Mie Goreng Balado, 11500
+Mie Goreng Balado, 12500
+Mie Goreng Geprek, 10000
+Mie Goreng Geprek, 10500
+Mie Goreng Geprek, 11000
+Mie Goreng Geprek, 11500
+Mie Goreng Geprek, 12000
+Mie Goreng Geprek, 12500
+Mie Goreng Jumbo, 15000
+Mie Goreng Jumbo, 15500
+Mie Goreng Jumbo, 16000
+Mie Goreng Jumbo, 16500
+Mie Goreng Jumbo, 17000
+Mie Goreng Jumbo, 17500
+Mie Goreng Kecap, 10000
+Mie Goreng Kecap, 10500
+Mie Goreng Kecap, 11000
+Mie Goreng Kecap, 11500
+Mie Goreng Kecap, 12000
+Mie Goreng Kecap, 12500
+Mie Goreng Keju, 13000
+Mie Goreng Keju, 13500
+Mie Goreng Keju, 14000
+Mie Goreng Keju, 14500
+Mie Goreng Keju, 15000
+Mie Goreng Keju, 15500
+Mie Goreng Komplit, 14000
+Mie Goreng Komplit, 14500
+Mie Goreng Komplit, 15000
+Mie Goreng Komplit, 15500
+Mie Goreng Komplit, 16500
+Mie Goreng Kornet, 10000
+Mie Goreng Kornet, 10500
+Mie Goreng Kornet, 11000
+Mie Goreng Kornet, 11500
+Mie Goreng Kornet, 12000
+Mie Goreng Kornet, 12500
+Mie Goreng Lada Hitam, 10000
+Mie Goreng Lada Hitam, 11500
+Mie Goreng Lada Hitam, 12000
+Mie Goreng Lada Hitam, 12500
+Mie Goreng Mentega, 10000
+Mie Goreng Mentega, 10500
+Mie Goreng Mentega, 11000
+Mie Goreng Mentega, 11500
+Mie Goreng Mentega, 12000
+Mie Goreng Mentega, 12500
+Mie Goreng Mozarella, 13000
+Mie Goreng Mozarella, 13500
+Mie Goreng Mozarella, 14000
+Mie Goreng Mozarella, 14500
+Mie Goreng Mozarella, 15000
+Mie Goreng Mozarella, 15500
+Mie Goreng Original, 10500
+Mie Goreng Original, 11000
+Mie Goreng Original, 11500
+Mie Goreng Original, 12000
+Mie Goreng Original, 12500
+Mie Goreng Pedas, 10000
+Mie Goreng Pedas, 10500
+Mie Goreng Pedas, 11500
+Mie Goreng Pedas, 12000
+Mie Goreng Pedas, 12500
+Mie Goreng Penyet, 10500
+Mie Goreng Penyet, 11500
+Mie Goreng Penyet, 12000
+Mie Goreng Penyet, 12500
+Mie Goreng Rica-rica, 10000
+Mie Goreng Rica-rica, 10500
+Mie Goreng Rica-rica, 11000
+Mie Goreng Rica-rica, 11500
+Mie Goreng Rica-rica, 12500
+Mie Goreng Sapi, 35000
+Mie Goreng Sapi, 35500
+Mie Goreng Sapi, 36000
+Mie Goreng Sapi, 36500
+Mie Goreng Sapi, 37000
+Mie Goreng Sapi, 37500
+Mie Goreng Seafood, 28000
+Mie Goreng Seafood, 28500
+Mie Goreng Seafood, 29500
+Mie Goreng Seafood, 30000
+Mie Goreng Seafood, 30500
+Mie Goreng Spesial, 14000
+Mie Goreng Spesial, 14500
+Mie Goreng Spesial, 15000
+Mie Goreng Spesial, 15500
+Mie Goreng Spesial, 16000
+Mie Goreng Spesial, 16500
+Mie Goreng Telur, 10000
+Mie Goreng Telur, 10500
+Mie Goreng Telur, 11000
+Mie Goreng Telur, 11500
+Mie Goreng Telur, 12000
+Mie Goreng, 10000
+Mie Goreng, 10500
+Mie Goreng, 11000
+Mie Goreng, 11500
+Mie Goreng, 12000
+Mie Goreng, 12500
+Mie Rebus Asam Manis, 10000
+Mie Rebus Asam Manis, 10500
+Mie Rebus Asam Manis, 11000
+Mie Rebus Asam Manis, 11500
+Mie Rebus Asam Manis, 12000
+Mie Rebus Asam Manis, 12500
+Mie Rebus Ati Ampela, 10000
+Mie Rebus Ati Ampela, 10500
+Mie Rebus Ati Ampela, 11000
+Mie Rebus Ati Ampela, 11500
+Mie Rebus Ati Ampela, 12000
+Mie Rebus Ati Ampela, 12500
+Mie Rebus Ayam, 22000
+Mie Rebus Ayam, 22500
+Mie Rebus Ayam, 23000
+Mie Rebus Ayam, 23500
+Mie Rebus Ayam, 24000
+Mie Rebus Balado, 10000
+Mie Rebus Balado, 11000
+Mie Rebus Balado, 11500
+Mie Rebus Balado, 12000
+Mie Rebus Balado, 12500
+Mie Rebus Geprek, 10500
+Mie Rebus Geprek, 11000
+Mie Rebus Geprek, 11500
+Mie Rebus Geprek, 12500
+Mie Rebus Jumbo, 15000
+Mie Rebus Jumbo, 15500
+Mie Rebus Jumbo, 16000
+Mie Rebus Jumbo, 17000
+Mie Rebus Kecap, 10000
+Mie Rebus Kecap, 10500
+Mie Rebus Kecap, 11000
+Mie Rebus Kecap, 12000
+Mie Rebus Kecap, 12500
+Mie Rebus Keju, 13000
+Mie Rebus Keju, 13500
+Mie Rebus Keju, 14000
+Mie Rebus Keju, 14500
+Mie Rebus Keju, 15000
+Mie Rebus Keju, 15500
+Mie Rebus Komplit, 14000
+Mie Rebus Komplit, 15000
+Mie Rebus Komplit, 16000
+Mie Rebus Komplit, 16500
+Mie Rebus Kornet, 11500
+Mie Rebus Kornet, 12000
+Mie Rebus Kornet, 12500
+Mie Rebus Lada Hitam, 10000
+Mie Rebus Lada Hitam, 10500
+Mie Rebus Lada Hitam, 11000
+Mie Rebus Lada Hitam, 11500
+Mie Rebus Lada Hitam, 12000
+Mie Rebus Mentega, 10000
+Mie Rebus Mentega, 10500
+Mie Rebus Mentega, 11000
+Mie Rebus Mentega, 11500
+Mie Rebus Mentega, 12500
+Mie Rebus Mozarella, 13000
+Mie Rebus Mozarella, 13500
+Mie Rebus Mozarella, 14500
+Mie Rebus Mozarella, 15000
+Mie Rebus Mozarella, 15500
+Mie Rebus Original, 10000
+Mie Rebus Original, 11000
+Mie Rebus Original, 12000
+Mie Rebus Original, 12500
+Mie Rebus Pedas, 10000
+Mie Rebus Pedas, 10500
+Mie Rebus Pedas, 11000
+Mie Rebus Pedas, 11500
+Mie Rebus Pedas, 12500
+Mie Rebus Penyet, 10000
+Mie Rebus Penyet, 11000
+Mie Rebus Penyet, 11500
+Mie Rebus Penyet, 12000
+Mie Rebus Penyet, 12500
+Mie Rebus Rica-rica, 10000
+Mie Rebus Rica-rica, 10500
+Mie Rebus Rica-rica, 11000
+Mie Rebus Rica-rica, 11500
+Mie Rebus Rica-rica, 12000
+Mie Rebus Rica-rica, 12500
+Mie Rebus Sapi, 35000
+Mie Rebus Sapi, 36000
+Mie Rebus Sapi, 36500
+Mie Rebus Sapi, 37000
+Mie Rebus Sapi, 37500
+Mie Rebus Seafood, 28000
+Mie Rebus Seafood, 28500
+Mie Rebus Seafood, 29000
+Mie Rebus Seafood, 30000
+Mie Rebus Seafood, 30500
+Mie Rebus Spesial, 14500
+Mie Rebus Spesial, 15000
+Mie Rebus Spesial, 15500
+Mie Rebus Spesial, 16000
+Mie Rebus Spesial, 16500
+Mie Rebus Telur, 10500
+Mie Rebus Telur, 11000
+Mie Rebus Telur, 11500
+Mie Rebus Telur, 12000
+Mie Rebus Telur, 12500
+Mie Rebus, 10000
+Mie Rebus, 10500
+Mie Rebus, 11000
+Mie Rebus, 11500
+Mie Rebus, 12000
+Mie Rebus, 12500
+Milkshake Cincau, 5000
+Milkshake Cincau, 5500
+Milkshake Cincau, 6000
+Milkshake Cincau, 6500
+Milkshake Cincau, 7000
+Milkshake Cincau, 7500
+Milkshake Gula Aren, 5000
+Milkshake Gula Aren, 5500
+Milkshake Gula Aren, 6000
+Milkshake Gula Aren, 6500
+Milkshake Gula Aren, 7000
+Milkshake Gula Aren, 7500
+Milkshake Jelly, 5000
+Milkshake Jelly, 5500
+Milkshake Jelly, 6000
+Milkshake Jelly, 6500
+Milkshake Jelly, 7000
+Milkshake Jelly, 7500
+Milkshake Large, 10000
+Milkshake Large, 10500
+Milkshake Large, 11000
+Milkshake Large, 11500
+Milkshake Large, 12000
+Milkshake Large, 12500
+Milkshake, 5000
+Milkshake, 5500
+Milkshake, 6000
+Milkshake, 6500
+Milkshake, 7000
+Milkshake, 7500
+Nasi Goreng Asam Manis, 10000
+Nasi Goreng Asam Manis, 11000
+Nasi Goreng Asam Manis, 11500
+Nasi Goreng Asam Manis, 12500
+Nasi Goreng Ati Ampela, 10000
+Nasi Goreng Ati Ampela, 11000
+Nasi Goreng Ati Ampela, 11500
+Nasi Goreng Ati Ampela, 12500
+Nasi Goreng Ayam, 22000
+Nasi Goreng Ayam, 22500
+Nasi Goreng Ayam, 23000
+Nasi Goreng Ayam, 23500
+Nasi Goreng Ayam, 24500
+Nasi Goreng Balado, 10500
+Nasi Goreng Balado, 11000
+Nasi Goreng Balado, 11500
+Nasi Goreng Balado, 12000
+Nasi Goreng Balado, 12500
+Nasi Goreng Geprek, 10000
+Nasi Goreng Geprek, 10500
+Nasi Goreng Geprek, 11000
+Nasi Goreng Geprek, 11500
+Nasi Goreng Geprek, 12000
+Nasi Goreng Geprek, 12500
+Nasi Goreng Jumbo, 15500
+Nasi Goreng Jumbo, 17500
+Nasi Goreng Kecap, 10000
+Nasi Goreng Kecap, 10500
+Nasi Goreng Kecap, 11000
+Nasi Goreng Kecap, 11500
+Nasi Goreng Kecap, 12000
+Nasi Goreng Kecap, 12500
+Nasi Goreng Keju, 13000
+Nasi Goreng Keju, 14500
+Nasi Goreng Keju, 15000
+Nasi Goreng Keju, 15500
+Nasi Goreng Komplit, 14000
+Nasi Goreng Komplit, 14500
+Nasi Goreng Komplit, 15000
+Nasi Goreng Komplit, 15500
+Nasi Goreng Komplit, 16000
+Nasi Goreng Komplit, 16500
+Nasi Goreng Kornet, 10500
+Nasi Goreng Kornet, 11500
+Nasi Goreng Kornet, 12000
+Nasi Goreng Kornet, 12500
+Nasi Goreng Lada Hitam, 10500
+Nasi Goreng Lada Hitam, 11000
+Nasi Goreng Lada Hitam, 11500
+Nasi Goreng Lada Hitam, 12000
+Nasi Goreng Lada Hitam, 12500
+Nasi Goreng Mentega, 10000
+Nasi Goreng Mentega, 10500
+Nasi Goreng Mentega, 11000
+Nasi Goreng Mentega, 11500
+Nasi Goreng Mentega, 12500
+Nasi Goreng Mozarella, 13000
+Nasi Goreng Mozarella, 13500
+Nasi Goreng Mozarella, 14000
+Nasi Goreng Mozarella, 14500
+Nasi Goreng Original, 10500
+Nasi Goreng Original, 11000
+Nasi Goreng Original, 11500
+Nasi Goreng Original, 12500
+Nasi Goreng Pedas, 10000
+Nasi Goreng Pedas, 10500
+Nasi Goreng Pedas, 11000
+Nasi Goreng Pedas, 11500
+Nasi Goreng Pedas, 12000
+Nasi Goreng Pedas, 12500
+Nasi Goreng Penyet, 11000
+Nasi Goreng Penyet, 11500
+Nasi Goreng Penyet, 12000
+Nasi Goreng Penyet, 12500
+Nasi Goreng Rica-rica, 10500
+Nasi Goreng Rica-rica, 11000
+Nasi Goreng Rica-rica, 11500
+Nasi Goreng Rica-rica, 12000
+Nasi Goreng Sapi, 35000
+Nasi Goreng Sapi, 35500
+Nasi Goreng Sapi, 36500
+Nasi Goreng Sapi, 37500
+Nasi Goreng Seafood, 28000
+Nasi Goreng Seafood, 28500
+Nasi Goreng Seafood, 29000
+Nasi Goreng Seafood, 29500
+Nasi Goreng Seafood, 30000
+Nasi Goreng Seafood, 30500
+Nasi Goreng Spesial, 14000
+Nasi Goreng Spesial, 14500
+Nasi Goreng Spesial, 15000
+Nasi Goreng Spesial, 15500
+Nasi Goreng Spesial, 16000
+Nasi Goreng Telur, 10000
+Nasi Goreng Telur, 10500
+Nasi Goreng Telur, 11000
+Nasi Goreng Telur, 11500
+Nasi Goreng Telur, 12000
+Nasi Goreng Telur, 12500
+Nasi Goreng, 10000
+Nasi Goreng, 10500
+Nasi Goreng, 11000
+Nasi Goreng, 11500
+Nasi Goreng, 12000
+Nasi Goreng, 12500
+Nasi Uduk Asam Manis, 10000
+Nasi Uduk Asam Manis, 11500
+Nasi Uduk Asam Manis, 12000
+Nasi Uduk Asam Manis, 12500
+Nasi Uduk Ati Ampela, 10000
+Nasi Uduk Ati Ampela, 10500
+Nasi Uduk Ati Ampela, 11000
+Nasi Uduk Ati Ampela, 11500
+Nasi Uduk Ati Ampela, 12500
+Nasi Uduk Ayam, 22000
+Nasi Uduk Ayam, 22500
+Nasi Uduk Ayam, 23000
+Nasi Uduk Ayam, 23500
+Nasi Uduk Ayam, 24000
+Nasi Uduk Ayam, 24500
+Nasi Uduk Balado, 10500
+Nasi Uduk Balado, 11000
+Nasi Uduk Balado, 11500
+Nasi Uduk Balado, 12000
+Nasi Uduk Balado, 12500
+Nasi Uduk Geprek, 10000
+Nasi Uduk Geprek, 11500
+Nasi Uduk Geprek, 12500
+Nasi Uduk Jumbo, 15000
+Nasi Uduk Jumbo, 15500
+Nasi Uduk Jumbo, 16000
+Nasi Uduk Jumbo, 17000
+Nasi Uduk Jumbo, 17500
+Nasi Uduk Kecap, 10000
+Nasi Uduk Kecap, 10500
+Nasi Uduk Kecap, 11500
+Nasi Uduk Kecap, 12500
+Nasi Uduk Keju, 13000
+Nasi Uduk Keju, 13500
+Nasi Uduk Keju, 14000
+Nasi Uduk Keju, 14500
+Nasi Uduk Keju, 15000
+Nasi Uduk Keju, 15500
+Nasi Uduk Komplit, 14000
+Nasi Uduk Komplit, 14500
+Nasi Uduk Komplit, 15500
+Nasi Uduk Komplit, 16000
+Nasi Uduk Komplit, 16500
+Nasi Uduk Kornet, 10000
+Nasi Uduk Kornet, 10500
+Nasi Uduk Kornet, 11000
+Nasi Uduk Kornet, 11500
+Nasi Uduk Kornet, 12000
+Nasi Uduk Kornet, 12500
+Nasi Uduk Lada Hitam, 10000
+Nasi Uduk Lada Hitam, 10500
+Nasi Uduk Lada Hitam, 11000
+Nasi Uduk Lada Hitam, 11500
+Nasi Uduk Lada Hitam, 12000
+Nasi Uduk Lada Hitam, 12500
+Nasi Uduk Mentega, 10000
+Nasi Uduk Mentega, 10500
+Nasi Uduk Mentega, 11500
+Nasi Uduk Mentega, 12000
+Nasi Uduk Mentega, 12500
+Nasi Uduk Mozarella, 13500
+Nasi Uduk Mozarella, 14000
+Nasi Uduk Mozarella, 14500
+Nasi Uduk Mozarella, 15000
+Nasi Uduk Mozarella, 15500
+Nasi Uduk Original, 10000
+Nasi Uduk Original, 10500
+Nasi Uduk Original, 11000
+Nasi Uduk Original, 12000
+Nasi Uduk Original, 12500
+Nasi Uduk Pedas, 10000
+Nasi Uduk Pedas, 10500
+Nasi Uduk Pedas, 12000
+Nasi Uduk Pedas, 12500
+Nasi Uduk Penyet, 10000
+Nasi Uduk Penyet, 11000
+Nasi Uduk Penyet, 12000
+Nasi Uduk Penyet, 12500
+Nasi Uduk Rica-rica, 10000
+Nasi Uduk Rica-rica, 11500
+Nasi Uduk Rica-rica, 12000
+Nasi Uduk Rica-rica, 12500
+Nasi Uduk Sapi, 35000
+Nasi Uduk Sapi, 35500
+Nasi Uduk Sapi, 36000
+Nasi Uduk Sapi, 37000
+Nasi Uduk Sapi, 37500
+Nasi Uduk Seafood, 28000
+Nasi Uduk Seafood, 29000
+Nasi Uduk Seafood, 29500
+Nasi Uduk Seafood, 30000
+Nasi Uduk Seafood, 30500
+Nasi Uduk Spesial, 14000
+Nasi Uduk Spesial, 14500
+Nasi Uduk Spesial, 15000
+Nasi Uduk Spesial, 15500
+Nasi Uduk Spesial, 16000
+Nasi Uduk Spesial, 16500
+Nasi Uduk Telur, 10000
+Nasi Uduk Telur, 11500
+Nasi Uduk Telur, 12500
+Nasi Uduk, 10000
+Nasi Uduk, 10500
+Nasi Uduk, 11000
+Nasi Uduk, 11500
+Nasi Uduk, 12000
+Nasi Uduk, 12500
+Otak-otak Asam Manis, 10000
+Otak-otak Asam Manis, 8000
+Otak-otak Asam Manis, 8500
+Otak-otak Asam Manis, 9000
+Otak-otak Asam Manis, 9500
+Otak-otak Ati Ampela, 10000
+Otak-otak Ati Ampela, 10500
+Otak-otak Ati Ampela, 8000
+Otak-otak Ati Ampela, 8500
+Otak-otak Ati Ampela, 9000
+Otak-otak Ati Ampela, 9500
+Otak-otak Ayam, 10000
+Otak-otak Ayam, 8000
+Otak-otak Ayam, 9000
+Otak-otak Balado, 10000
+Otak-otak Balado, 10500
+Otak-otak Balado, 8000
+Otak-otak Balado, 8500
+Otak-otak Balado, 9000
+Otak-otak Geprek, 10000
+Otak-otak Geprek, 10500
+Otak-otak Geprek, 8500
+Otak-otak Geprek, 9000
+Otak-otak Geprek, 9500
+Otak-otak Jumbo, 13000
+Otak-otak Jumbo, 13500
+Otak-otak Jumbo, 14000
+Otak-otak Jumbo, 15000
+Otak-otak Jumbo, 15500
+Otak-otak Kecap, 10000
+Otak-otak Kecap, 10500
+Otak-otak Kecap, 8000
+Otak-otak Kecap, 9500
+Otak-otak Keju, 11000
+Otak-otak Keju, 11500
+Otak-otak Keju, 12000
+Otak-otak Keju, 12500
+Otak-otak Keju, 13000
+Otak-otak Keju, 13500
+Otak-otak Komplit, 12000
+Otak-otak Komplit, 12500
+Otak-otak Komplit, 13000
+Otak-otak Komplit, 13500
+Otak-otak Komplit, 14000
+Otak-otak Komplit, 14500
+Otak-otak Kornet, 10000
+Otak-otak Kornet, 10500
+Otak-otak Kornet, 8000
+Otak-otak Kornet, 9000
+Otak-otak Kornet, 9500
+Otak-otak Lada Hitam, 10000
+Otak-otak Lada Hitam, 8500
+Otak-otak Lada Hitam, 9000
+Otak-otak Lada Hitam, 9500
+Otak-otak Mentega, 10000
+Otak-otak Mentega, 10500
+Otak-otak Mentega, 8000
+Otak-otak Mentega, 8500
+Otak-otak Mentega, 9000
+Otak-otak Mozarella, 12000
+Otak-otak Mozarella, 12500
+Otak-otak Mozarella, 13000
+Otak-otak Mozarella, 13500
+Otak-otak Original, 10500
+Otak-otak Original, 8000
+Otak-otak Original, 8500
+Otak-otak Original, 9000
+Otak-otak Original, 9500
+Otak-otak Pedas, 10000
+Otak-otak Pedas, 10500
+Otak-otak Pedas, 8000
+Otak-otak Pedas, 8500
+Otak-otak Pedas, 9000
+Otak-otak Pedas, 9500
+Otak-otak Penyet, 10000
+Otak-otak Penyet, 10500
+Otak-otak Penyet, 8000
+Otak-otak Penyet, 8500
+Otak-otak Penyet, 9000
+Otak-otak Rica-rica, 10000
+Otak-otak Rica-rica, 10500
+Otak-otak Rica-rica, 8000
+Otak-otak Rica-rica, 8500
+Otak-otak Rica-rica, 9500
+Otak-otak Sapi, 10000
+Otak-otak Sapi, 10500
+Otak-otak Sapi, 8000
+Otak-otak Sapi, 8500
+Otak-otak Sapi, 9000
+Otak-otak Seafood, 10000
+Otak-otak Seafood, 10500
+Otak-otak Seafood, 8000
+Otak-otak Seafood, 8500
+Otak-otak Seafood, 9000
+Otak-otak Seafood, 9500
+Otak-otak Spesial, 12000
+Otak-otak Spesial, 12500
+Otak-otak Spesial, 13000
+Otak-otak Spesial, 14000
+Otak-otak Spesial, 14500
+Otak-otak Telur, 10000
+Otak-otak Telur, 10500
+Otak-otak Telur, 8000
+Otak-otak Telur, 8500
+Otak-otak Telur, 9000
+Otak-otak Telur, 9500
+Otak-otak, 10000
+Otak-otak, 10500
+Otak-otak, 8000
+Otak-otak, 8500
+Otak-otak, 9000
+Otak-otak, 9500
+Pancake Asam Manis, 10000
+Pancake Asam Manis, 10500
+Pancake Asam Manis, 8000
+Pancake Asam Manis, 8500
+Pancake Asam Manis, 9000
+Pancake Ati Ampela, 10000
+Pancake Ati Ampela, 10500
+Pancake Ati Ampela, 8000
+Pancake Ati Ampela, 8500
+Pancake Ati Ampela, 9000
+Pancake Ati Ampela, 9500
+Pancake Ayam, 10000
+Pancake Ayam, 10500
+Pancake Ayam, 8000
+Pancake Ayam, 8500
+Pancake Ayam, 9500
+Pancake Balado, 10000
+Pancake Balado, 8000
+Pancake Balado, 8500
+Pancake Balado, 9000
+Pancake Balado, 9500
+Pancake Geprek, 10000
+Pancake Geprek, 10500
+Pancake Geprek, 8000
+Pancake Geprek, 8500
+Pancake Geprek, 9000
+Pancake Geprek, 9500
+Pancake Jumbo, 13000
+Pancake Jumbo, 14000
+Pancake Jumbo, 14500
+Pancake Jumbo, 15000
+Pancake Jumbo, 15500
+Pancake Kecap, 10000
+Pancake Kecap, 10500
+Pancake Kecap, 9000
+Pancake Keju, 11000
+Pancake Keju, 11500
+Pancake Keju, 12000
+Pancake Keju, 12500
+Pancake Keju, 13000
+Pancake Keju, 13500
+Pancake Komplit, 12000
+Pancake Komplit, 12500
+Pancake Komplit, 13000
+Pancake Komplit, 13500
+Pancake Komplit, 14500
+Pancake Kornet, 10500
+Pancake Kornet, 8000
+Pancake Kornet, 8500
+Pancake Kornet, 9000
+Pancake Kornet, 9500
+Pancake Lada Hitam, 10000
+Pancake Lada Hitam, 10500
+Pancake Lada Hitam, 8000
+Pancake Lada Hitam, 8500
+Pancake Lada Hitam, 9000
+Pancake Lada Hitam, 9500
+Pancake Mentega, 8000
+Pancake Mentega, 8500
+Pancake Mozarella, 11000
+Pancake Mozarella, 11500
+Pancake Mozarella, 12000
+Pancake Mozarella, 12500
+Pancake Mozarella, 13500
+Pancake Original, 10500
+Pancake Original, 8000
+Pancake Original, 8500
+Pancake Original, 9000
+Pancake Original, 9500
+Pancake Pedas, 10000
+Pancake Pedas, 10500
+Pancake Pedas, 8000
+Pancake Pedas, 9000
+Pancake Penyet, 10000
+Pancake Penyet, 10500
+Pancake Penyet, 8000
+Pancake Penyet, 8500
+Pancake Penyet, 9000
+Pancake Penyet, 9500
+Pancake Rica-rica, 10500
+Pancake Rica-rica, 8500
+Pancake Rica-rica, 9500
+Pancake Sapi, 10000
+Pancake Sapi, 10500
+Pancake Sapi, 8000
+Pancake Sapi, 8500
+Pancake Sapi, 9000
+Pancake Sapi, 9500
+Pancake Seafood, 10500
+Pancake Seafood, 8000
+Pancake Seafood, 9500
+Pancake Spesial, 12500
+Pancake Spesial, 13000
+Pancake Spesial, 13500
+Pancake Telur, 10500
+Pancake Telur, 8000
+Pancake Telur, 8500
+Pancake Telur, 9500
+Pancake, 10000
+Pancake, 10500
+Pancake, 8000
+Pancake, 8500
+Pancake, 9000
+Pancake, 9500
+Pisang Bakar Asam Manis, 10000
+Pisang Bakar Asam Manis, 8000
+Pisang Bakar Asam Manis, 9000
+Pisang Bakar Ati Ampela, 10000
+Pisang Bakar Ati Ampela, 10500
+Pisang Bakar Ati Ampela, 8000
+Pisang Bakar Ati Ampela, 9000
+Pisang Bakar Ayam, 10000
+Pisang Bakar Ayam, 10500
+Pisang Bakar Ayam, 8000
+Pisang Bakar Ayam, 9500
+Pisang Bakar Balado, 10000
+Pisang Bakar Balado, 8000
+Pisang Bakar Balado, 8500
+Pisang Bakar Balado, 9000
+Pisang Bakar Balado, 9500
+Pisang Bakar Geprek, 10000
+Pisang Bakar Geprek, 10500
+Pisang Bakar Geprek, 8000
+Pisang Bakar Geprek, 8500
+Pisang Bakar Geprek, 9000
+Pisang Bakar Geprek, 9500
+Pisang Bakar Jumbo, 13000
+Pisang Bakar Jumbo, 13500
+Pisang Bakar Jumbo, 14000
+Pisang Bakar Jumbo, 15000
+Pisang Bakar Jumbo, 15500
+Pisang Bakar Kecap, 10000
+Pisang Bakar Kecap, 10500
+Pisang Bakar Kecap, 8000
+Pisang Bakar Kecap, 8500
+Pisang Bakar Kecap, 9000
+Pisang Bakar Keju, 12000
+Pisang Bakar Keju, 12500
+Pisang Bakar Keju, 13000
+Pisang Bakar Keju, 13500
+Pisang Bakar Komplit, 12000
+Pisang Bakar Komplit, 12500
+Pisang Bakar Komplit, 13500
+Pisang Bakar Komplit, 14000
+Pisang Bakar Kornet, 10000
+Pisang Bakar Kornet, 8500
+Pisang Bakar Kornet, 9000
+Pisang Bakar Kornet, 9500
+Pisang Bakar Lada Hitam, 10000
+Pisang Bakar Lada Hitam, 10500
+Pisang Bakar Lada Hitam, 8000
+Pisang Bakar Lada Hitam, 8500
+Pisang Bakar Lada Hitam, 9000
+Pisang Bakar Lada Hitam, 9500
+Pisang Bakar Mentega, 10000
+Pisang Bakar Mentega, 10500
+Pisang Bakar Mentega, 8000
+Pisang Bakar Mentega, 8500
+Pisang Bakar Mentega, 9000
+Pisang Bakar Mentega, 9500
+Pisang Bakar Mozarella, 11000
+Pisang Bakar Mozarella, 12000
+Pisang Bakar Mozarella, 12500
+Pisang Bakar Mozarella, 13000
+Pisang Bakar Mozarella, 13500
+Pisang Bakar Original, 10000
+Pisang Bakar Original, 10500
+Pisang Bakar Original, 8500
+Pisang Bakar Original, 9500
+Pisang Bakar Pedas, 10500
+Pisang Bakar Pedas, 8000
+Pisang Bakar Pedas, 9000
+Pisang Bakar Pedas, 9500
+Pisang Bakar Penyet, 10000
+Pisang Bakar Penyet, 10500
+Pisang Bakar Penyet, 8000
+Pisang Bakar Penyet, 8500
+Pisang Bakar Penyet, 9000
+Pisang Bakar Penyet, 9500
+Pisang Bakar Rica-rica, 10000
+Pisang Bakar Rica-rica, 10500
+Pisang Bakar Rica-rica, 8000
+Pisang Bakar Rica-rica, 8500
+Pisang Bakar Rica-rica, 9500
+Pisang Bakar Sapi, 10000
+Pisang Bakar Sapi, 10500
+Pisang Bakar Sapi, 8000
+Pisang Bakar Sapi, 8500
+Pisang Bakar Sapi, 9000
+Pisang Bakar Sapi, 9500
+Pisang Bakar Seafood, 10000
+Pisang Bakar Seafood, 10500
+Pisang Bakar Seafood, 8000
+Pisang Bakar Seafood, 8500
+Pisang Bakar Seafood, 9000
+Pisang Bakar Seafood, 9500
+Pisang Bakar Spesial, 12000
+Pisang Bakar Spesial, 13000
+Pisang Bakar Spesial, 14000
+Pisang Bakar Spesial, 14500
+Pisang Bakar Telur, 10000
+Pisang Bakar Telur, 10500
+Pisang Bakar Telur, 8000
+Pisang Bakar Telur, 8500
+Pisang Bakar Telur, 9500
+Pisang Bakar, 10000
+Pisang Bakar, 10500
+Pisang Bakar, 8000
+Pisang Bakar, 8500
+Pisang Bakar, 9000
+Pisang Bakar, 9500
+Pizza Asam Manis, 25000
+Pizza Asam Manis, 26000
+Pizza Asam Manis, 26500
+Pizza Asam Manis, 27500
+Pizza Ati Ampela, 25000
+Pizza Ati Ampela, 25500
+Pizza Ati Ampela, 26000
+Pizza Ati Ampela, 26500
+Pizza Ati Ampela, 27000
+Pizza Ati Ampela, 27500
+Pizza Ayam, 22000
+Pizza Ayam, 22500
+Pizza Ayam, 23000
+Pizza Ayam, 23500
+Pizza Ayam, 24500
+Pizza Balado, 25000
+Pizza Balado, 25500
+Pizza Balado, 26000
+Pizza Balado, 26500
+Pizza Balado, 27000
+Pizza Balado, 27500
+Pizza Geprek, 25000
+Pizza Geprek, 25500
+Pizza Geprek, 26500
+Pizza Geprek, 27500
+Pizza Jumbo, 30000
+Pizza Jumbo, 30500
+Pizza Jumbo, 31500
+Pizza Jumbo, 32000
+Pizza Jumbo, 32500
+Pizza Kecap, 25000
+Pizza Kecap, 25500
+Pizza Kecap, 26000
+Pizza Kecap, 26500
+Pizza Kecap, 27000
+Pizza Kecap, 27500
+Pizza Keju, 28000
+Pizza Keju, 30000
+Pizza Keju, 30500
+Pizza Komplit, 29500
+Pizza Komplit, 30000
+Pizza Kornet, 25000
+Pizza Kornet, 25500
+Pizza Kornet, 26500
+Pizza Kornet, 27500
+Pizza Lada Hitam, 25000
+Pizza Lada Hitam, 25500
+Pizza Lada Hitam, 26000
+Pizza Lada Hitam, 26500
+Pizza Mentega, 25000
+Pizza Mentega, 26000
+Pizza Mentega, 26500
+Pizza Mentega, 27000
+Pizza Mentega, 27500
+Pizza Mozarella, 28000
+Pizza Mozarella, 28500
+Pizza Mozarella, 29000
+Pizza Mozarella, 29500
+Pizza Mozarella, 30000
+Pizza Mozarella, 30500
+Pizza Original, 25000
+Pizza Original, 25500
+Pizza Original, 26000
+Pizza Original, 26500
+Pizza Original, 27000
+Pizza Pedas, 25500
+Pizza Pedas, 26000
+Pizza Pedas, 26500
+Pizza Pedas, 27000
+Pizza Pedas, 27500
+Pizza Penyet, 25000
+Pizza Penyet, 26000
+Pizza Penyet, 26500
+Pizza Penyet, 27500
+Pizza Rica-rica, 25000
+Pizza Rica-rica, 25500
+Pizza Rica-rica, 26000
+Pizza Rica-rica, 27500
+Pizza Sapi, 35000
+Pizza Sapi, 35500
+Pizza Sapi, 36000
+Pizza Sapi, 36500
+Pizza Sapi, 37000
+Pizza Sapi, 37500
+Pizza Seafood, 28000
+Pizza Seafood, 29000
+Pizza Seafood, 29500
+Pizza Seafood, 30000
+Pizza Spesial, 29000
+Pizza Spesial, 29500
+Pizza Spesial, 30000
+Pizza Spesial, 31000
+Pizza Spesial, 31500
+Pizza Telur, 25000
+Pizza Telur, 25500
+Pizza Telur, 26000
+Pizza Telur, 27500
+Pizza, 25000
+Pizza, 25500
+Pizza, 26000
+Pizza, 26500
+Pizza, 27000
+Pizza, 27500
+Rawon Asam Manis, 10000
+Rawon Asam Manis, 10500
+Rawon Asam Manis, 11000
+Rawon Asam Manis, 11500
+Rawon Asam Manis, 12000
+Rawon Asam Manis, 12500
+Rawon Ati Ampela, 10000
+Rawon Ati Ampela, 10500
+Rawon Ati Ampela, 11000
+Rawon Ati Ampela, 11500
+Rawon Ati Ampela, 12000
+Rawon Ayam, 22000
+Rawon Ayam, 22500
+Rawon Ayam, 23000
+Rawon Ayam, 24000
+Rawon Ayam, 24500
+Rawon Balado, 10000
+Rawon Balado, 11000
+Rawon Balado, 11500
+Rawon Balado, 12500
+Rawon Geprek, 10000
+Rawon Geprek, 10500
+Rawon Geprek, 11000
+Rawon Geprek, 11500
+Rawon Geprek, 12500
+Rawon Jumbo, 15000
+Rawon Jumbo, 16000
+Rawon Jumbo, 16500
+Rawon Jumbo, 17000
+Rawon Jumbo, 17500
+Rawon Kecap, 10000
+Rawon Kecap, 10500
+Rawon Kecap, 11000
+Rawon Kecap, 11500
+Rawon Kecap, 12000
+Rawon Kecap, 12500
+Rawon Keju, 13000
+Rawon Keju, 13500
+Rawon Keju, 14500
+Rawon Keju, 15000
+Rawon Komplit, 14000
+Rawon Komplit, 14500
+Rawon Komplit, 15000
+Rawon Komplit, 15500
+Rawon Komplit, 16500
+Rawon Kornet, 10000
+Rawon Kornet, 11000
+Rawon Kornet, 11500
+Rawon Kornet, 12000
+Rawon Kornet, 12500
+Rawon Lada Hitam, 10000
+Rawon Lada Hitam, 10500
+Rawon Lada Hitam, 11000
+Rawon Lada Hitam, 12500
+Rawon Mentega, 10000
+Rawon Mentega, 10500
+Rawon Mentega, 11000
+Rawon Mentega, 11500
+Rawon Mentega, 12000
+Rawon Mentega, 12500
+Rawon Mozarella, 13000
+Rawon Mozarella, 14000
+Rawon Mozarella, 14500
+Rawon Mozarella, 15000
+Rawon Original, 10500
+Rawon Original, 11000
+Rawon Original, 12000
+Rawon Original, 12500
+Rawon Pedas, 10000
+Rawon Pedas, 11000
+Rawon Pedas, 11500
+Rawon Pedas, 12000
+Rawon Pedas, 12500
+Rawon Penyet, 10000
+Rawon Penyet, 10500
+Rawon Penyet, 11500
+Rawon Penyet, 12000
+Rawon Penyet, 12500
+Rawon Rica-rica, 10000
+Rawon Rica-rica, 10500
+Rawon Rica-rica, 11000
+Rawon Rica-rica, 11500
+Rawon Rica-rica, 12000
+Rawon Rica-rica, 12500
+Rawon Sapi, 35500
+Rawon Sapi, 36000
+Rawon Sapi, 36500
+Rawon Seafood, 28000
+Rawon Seafood, 28500
+Rawon Seafood, 29500
+Rawon Seafood, 30000
+Rawon Seafood, 30500
+Rawon Spesial, 14000
+Rawon Spesial, 14500
+Rawon Spesial, 15000
+Rawon Spesial, 16500
+Rawon Telur, 10500
+Rawon Telur, 11000
+Rawon Telur, 11500
+Rawon Telur, 12000
+Rawon Telur, 12500
+Rawon, 10000
+Rawon, 10500
+Rawon, 11000
+Rawon, 11500
+Rawon, 12000
+Rawon, 12500
+Rendang Asam Manis, 10000
+Rendang Asam Manis, 10500
+Rendang Asam Manis, 11000
+Rendang Asam Manis, 12000
+Rendang Asam Manis, 12500
+Rendang Ati Ampela, 10000
+Rendang Ati Ampela, 10500
+Rendang Ati Ampela, 12000
+Rendang Ati Ampela, 12500
+Rendang Ayam, 22000
+Rendang Ayam, 22500
+Rendang Ayam, 23500
+Rendang Ayam, 24000
+Rendang Ayam, 24500
+Rendang Balado, 10000
+Rendang Balado, 10500
+Rendang Balado, 11000
+Rendang Balado, 11500
+Rendang Balado, 12000
+Rendang Balado, 12500
+Rendang Geprek, 10000
+Rendang Geprek, 10500
+Rendang Geprek, 11000
+Rendang Geprek, 11500
+Rendang Geprek, 12000
+Rendang Geprek, 12500
+Rendang Jumbo, 15000
+Rendang Jumbo, 15500
+Rendang Jumbo, 16000
+Rendang Jumbo, 16500
+Rendang Jumbo, 17000
+Rendang Kecap, 10500
+Rendang Kecap, 11000
+Rendang Kecap, 11500
+Rendang Kecap, 12000
+Rendang Kecap, 12500
+Rendang Keju, 13000
+Rendang Keju, 13500
+Rendang Keju, 14500
+Rendang Keju, 15000
+Rendang Keju, 15500
+Rendang Komplit, 14000
+Rendang Komplit, 14500
+Rendang Komplit, 15000
+Rendang Komplit, 15500
+Rendang Komplit, 16000
+Rendang Komplit, 16500
+Rendang Kornet, 11500
+Rendang Kornet, 12500
+Rendang Lada Hitam, 10000
+Rendang Lada Hitam, 10500
+Rendang Lada Hitam, 11000
+Rendang Lada Hitam, 11500
+Rendang Lada Hitam, 12500
+Rendang Mentega, 10000
+Rendang Mentega, 10500
+Rendang Mentega, 11000
+Rendang Mentega, 11500
+Rendang Mentega, 12000
+Rendang Mozarella, 13000
+Rendang Mozarella, 13500
+Rendang Mozarella, 14000
+Rendang Mozarella, 15000
+Rendang Mozarella, 15500
+Rendang Original, 10000
+Rendang Original, 10500
+Rendang Original, 11000
+Rendang Original, 11500
+Rendang Original, 12500
+Rendang Pedas, 10000
+Rendang Pedas, 10500
+Rendang Pedas, 11000
+Rendang Pedas, 11500
+Rendang Pedas, 12000
+Rendang Pedas, 12500
+Rendang Penyet, 10000
+Rendang Penyet, 10500
+Rendang Penyet, 11000
+Rendang Penyet, 12000
+Rendang Rica-rica, 10500
+Rendang Rica-rica, 11000
+Rendang Rica-rica, 11500
+Rendang Rica-rica, 12000
+Rendang Rica-rica, 12500
+Rendang Sapi, 35500
+Rendang Sapi, 36500
+Rendang Sapi, 37500
+Rendang Seafood, 28500
+Rendang Seafood, 29000
+Rendang Seafood, 30000
+Rendang Seafood, 30500
+Rendang Spesial, 14000
+Rendang Spesial, 14500
+Rendang Spesial, 15000
+Rendang Spesial, 15500
+Rendang Spesial, 16000
+Rendang Spesial, 16500
+Rendang Telur, 10000
+Rendang Telur, 10500
+Rendang Telur, 11000
+Rendang Telur, 11500
+Rendang Telur, 12000
+Rendang, 10000
+Rendang, 10500
+Rendang, 11000
+Rendang, 11500
+Rendang, 12000
+Rendang, 12500
+Rice Bowl Asam Manis, 10000
+Rice Bowl Asam Manis, 11500
+Rice Bowl Asam Manis, 12000
+Rice Bowl Asam Manis, 12500
+Rice Bowl Ati Ampela, 10000
+Rice Bowl Ati Ampela, 10500
+Rice Bowl Ati Ampela, 11000
+Rice Bowl Ati Ampela, 11500
+Rice Bowl Ati Ampela, 12000
+Rice Bowl Ati Ampela, 12500
+Rice Bowl Ayam, 22000
+Rice Bowl Ayam, 22500
+Rice Bowl Ayam, 23000
+Rice Bowl Ayam, 23500
+Rice Bowl Ayam, 24000
+Rice Bowl Ayam, 24500
+Rice Bowl Balado, 10000
+Rice Bowl Balado, 10500
+Rice Bowl Balado, 11000
+Rice Bowl Balado, 11500
+Rice Bowl Balado, 12000
+Rice Bowl Balado, 12500
+Rice Bowl Geprek, 10000
+Rice Bowl Geprek, 10500
+Rice Bowl Geprek, 11500
+Rice Bowl Geprek, 12000
+Rice Bowl Geprek, 12500
+Rice Bowl Jumbo, 15500
+Rice Bowl Jumbo, 16000
+Rice Bowl Jumbo, 16500
+Rice Bowl Jumbo, 17000
+Rice Bowl Jumbo, 17500
+Rice Bowl Kecap, 10500
+Rice Bowl Kecap, 11000
+Rice Bowl Kecap, 11500
+Rice Bowl Kecap, 12000
+Rice Bowl Kecap, 12500
+Rice Bowl Keju, 13000
+Rice Bowl Keju, 13500
+Rice Bowl Keju, 14000
+Rice Bowl Keju, 14500
+Rice Bowl Komplit, 14000
+Rice Bowl Komplit, 14500
+Rice Bowl Komplit, 15000
+Rice Bowl Komplit, 15500
+Rice Bowl Komplit, 16000
+Rice Bowl Kornet, 10000
+Rice Bowl Kornet, 10500
+Rice Bowl Kornet, 11000
+Rice Bowl Kornet, 11500
+Rice Bowl Kornet, 12000
+Rice Bowl Kornet, 12500
+Rice Bowl Lada Hitam, 10000
+Rice Bowl Lada Hitam, 10500
+Rice Bowl Lada Hitam, 11000
+Rice Bowl Lada Hitam, 11500
+Rice Bowl Lada Hitam, 12000
+Rice Bowl Mentega, 10000
+Rice Bowl Mentega, 10500
+Rice Bowl Mentega, 11000
+Rice Bowl Mentega, 11500
+Rice Bowl Mentega, 12500
+Rice Bowl Mozarella, 13500
+Rice Bowl Mozarella, 14000
+Rice Bowl Mozarella, 14500
+Rice Bowl Mozarella, 15000
+Rice Bowl Mozarella, 15500
+Rice Bowl Original, 10000
+Rice Bowl Original, 10500
+Rice Bowl Original, 11000
+Rice Bowl Original, 11500
+Rice Bowl Original, 12000
+Rice Bowl Original, 12500
+Rice Bowl Pedas, 10000
+Rice Bowl Pedas, 10500
+Rice Bowl Pedas, 11500
+Rice Bowl Pedas, 12500
+Rice Bowl Penyet, 10000
+Rice Bowl Penyet, 10500
+Rice Bowl Penyet, 11000
+Rice Bowl Penyet, 11500
+Rice Bowl Penyet, 12500
+Rice Bowl Rica-rica, 10500
+Rice Bowl Rica-rica, 11000
+Rice Bowl Rica-rica, 11500
+Rice Bowl Rica-rica, 12000
+Rice Bowl Sapi, 35000
+Rice Bowl Sapi, 35500
+Rice Bowl Sapi, 36500
+Rice Bowl Sapi, 37000
+Rice Bowl Sapi, 37500
+Rice Bowl Seafood, 28500
+Rice Bowl Seafood, 29500
+Rice Bowl Seafood, 30000
+Rice Bowl Seafood, 30500
+Rice Bowl Spesial, 14000
+Rice Bowl Spesial, 15000
+Rice Bowl Spesial, 15500
+Rice Bowl Spesial, 16000
+Rice Bowl Spesial, 16500
+Rice Bowl Telur, 10000
+Rice Bowl Telur, 10500
+Rice Bowl Telur, 11000
+Rice Bowl Telur, 11500
+Rice Bowl Telur, 12000
+Rice Bowl Telur, 12500
+Rice Bowl, 10000
+Rice Bowl, 10500
+Rice Bowl, 11000
+Rice Bowl, 11500
+Rice Bowl, 12000
+Rice Bowl, 12500
+Risoles Asam Manis, 10000
+Risoles Asam Manis, 10500
+Risoles Asam Manis, 8000
+Risoles Asam Manis, 9000
+Risoles Asam Manis, 9500
+Risoles Ati Ampela, 10000
+Risoles Ati Ampela, 10500
+Risoles Ati Ampela, 8000
+Risoles Ati Ampela, 8500
+Risoles Ati Ampela, 9000
+Risoles Ati Ampela, 9500
+Risoles Ayam, 10000
+Risoles Ayam, 10500
+Risoles Ayam, 8000
+Risoles Ayam, 8500
+Risoles Ayam, 9000
+Risoles Ayam, 9500
+Risoles Balado, 10000
+Risoles Balado, 8000
+Risoles Balado, 8500
+Risoles Balado, 9000
+Risoles Balado, 9500
+Risoles Geprek, 10000
+Risoles Geprek, 8000
+Risoles Geprek, 8500
+Risoles Geprek, 9000
+Risoles Geprek, 9500
+Risoles Jumbo, 13500
+Risoles Jumbo, 14000
+Risoles Jumbo, 14500
+Risoles Jumbo, 15500
+Risoles Kecap, 10000
+Risoles Kecap, 10500
+Risoles Kecap, 8000
+Risoles Kecap, 9000
+Risoles Kecap, 9500
+Risoles Keju, 11000
+Risoles Keju, 12000
+Risoles Keju, 12500
+Risoles Keju, 13000
+Risoles Keju, 13500
+Risoles Komplit, 12000
+Risoles Komplit, 13000
+Risoles Komplit, 13500
+Risoles Komplit, 14000
+Risoles Kornet, 10000
+Risoles Kornet, 8000
+Risoles Kornet, 9000
+Risoles Kornet, 9500
+Risoles Lada Hitam, 10000
+Risoles Lada Hitam, 8000
+Risoles Lada Hitam, 8500
+Risoles Lada Hitam, 9500
+Risoles Mentega, 10000
+Risoles Mentega, 10500
+Risoles Mentega, 8000
+Risoles Mentega, 8500
+Risoles Mentega, 9000
+Risoles Mentega, 9500
+Risoles Mozarella, 11000
+Risoles Mozarella, 11500
+Risoles Mozarella, 12500
+Risoles Mozarella, 13000
+Risoles Mozarella, 13500
+Risoles Original, 10500
+Risoles Original, 8000
+Risoles Original, 8500
+Risoles Original, 9000
+Risoles Original, 9500
+Risoles Pedas, 10000
+Risoles Pedas, 8000
+Risoles Pedas, 9500
+Risoles Penyet, 10000
+Risoles Penyet, 10500
+Risoles Penyet, 8000
+Risoles Penyet, 8500
+Risoles Penyet, 9000
+Risoles Penyet, 9500
+Risoles Rica-rica, 10000
+Risoles Rica-rica, 10500
+Risoles Rica-rica, 8000
+Risoles Rica-rica, 8500
+Risoles Rica-rica, 9000
+Risoles Sapi, 10000
+Risoles Sapi, 8500
+Risoles Sapi, 9000
+Risoles Seafood, 10500
+Risoles Seafood, 8000
+Risoles Seafood, 9500
+Risoles Spesial, 12000
+Risoles Spesial, 12500
+Risoles Spesial, 13000
+Risoles Spesial, 13500
+Risoles Spesial, 14000
+Risoles Spesial, 14500
+Risoles Telur, 10500
+Risoles Telur, 8500
+Risoles Telur, 9000
+Risoles Telur, 9500
+Risoles, 10000
+Risoles, 10500
+Risoles, 8000
+Risoles, 8500
+Risoles, 9000
+Risoles, 9500
+Roti Bakar Asam Manis, 10500
+Roti Bakar Asam Manis, 8000
+Roti Bakar Asam Manis, 9000
+Roti Bakar Asam Manis, 9500
+Roti Bakar Ati Ampela, 10000
+Roti Bakar Ati Ampela, 10500
+Roti Bakar Ati Ampela, 8000
+Roti Bakar Ati Ampela, 9000
+Roti Bakar Ati Ampela, 9500
+Roti Bakar Ayam, 8000
+Roti Bakar Ayam, 8500
+Roti Bakar Ayam, 9000
+Roti Bakar Ayam, 9500
+Roti Bakar Balado, 10000
+Roti Bakar Balado, 10500
+Roti Bakar Balado, 8500
+Roti Bakar Balado, 9000
+Roti Bakar Balado, 9500
+Roti Bakar Geprek, 10000
+Roti Bakar Geprek, 10500
+Roti Bakar Geprek, 8000
+Roti Bakar Geprek, 9500
+Roti Bakar Jumbo, 13000
+Roti Bakar Jumbo, 14000
+Roti Bakar Jumbo, 14500
+Roti Bakar Jumbo, 15000
+Roti Bakar Jumbo, 15500
+Roti Bakar Kecap, 10500
+Roti Bakar Kecap, 8000
+Roti Bakar Kecap, 8500
+Roti Bakar Kecap, 9500
+Roti Bakar Keju, 11000
+Roti Bakar Keju, 11500
+Roti Bakar Keju, 12500
+Roti Bakar Keju, 13000
+Roti Bakar Keju, 13500
+Roti Bakar Komplit, 12000
+Roti Bakar Komplit, 12500
+Roti Bakar Komplit, 13500
+Roti Bakar Komplit, 14000
+Roti Bakar Komplit, 14500
+Roti Bakar Kornet, 10500
+Roti Bakar Kornet, 8500
+Roti Bakar Kornet, 9000
+Roti Bakar Kornet, 9500
+Roti Bakar Lada Hitam, 10000
+Roti Bakar Lada Hitam, 10500
+Roti Bakar Lada Hitam, 8000
+Roti Bakar Lada Hitam, 9000
+Roti Bakar Lada Hitam, 9500
+Roti Bakar Mentega, 10000
+Roti Bakar Mentega, 10500
+Roti Bakar Mentega, 8000
+Roti Bakar Mentega, 8500
+Roti Bakar Mentega, 9500
+Roti Bakar Mozarella, 11000
+Roti Bakar Mozarella, 11500
+Roti Bakar Mozarella, 12000
+Roti Bakar Mozarella, 12500
+Roti Bakar Mozarella, 13000
+Roti Bakar Original, 10000
+Roti Bakar Original, 10500
+Roti Bakar Pedas, 10500
+Roti Bakar Pedas, 9000
+Roti Bakar Pedas, 9500
+Roti Bakar Penyet, 10000
+Roti Bakar Penyet, 10500
+Roti Bakar Penyet, 9000
+Roti Bakar Rica-rica, 10000
+Roti Bakar Rica-rica, 10500
+Roti Bakar Rica-rica, 8000
+Roti Bakar Rica-rica, 8500
+Roti Bakar Rica-rica, 9000
+Roti Bakar Rica-rica, 9500
+Roti Bakar Sapi, 10000
+Roti Bakar Sapi, 8500
+Roti Bakar Sapi, 9000
+Roti Bakar Sapi, 9500
+Roti Bakar Seafood, 10000
+Roti Bakar Seafood, 10500
+Roti Bakar Seafood, 8000
+Roti Bakar Seafood, 8500
+Roti Bakar Seafood, 9000
+Roti Bakar Seafood, 9500
+Roti Bakar Spesial, 12000
+Roti Bakar Spesial, 12500
+Roti Bakar Spesial, 13000
+Roti Bakar Spesial, 13500
+Roti Bakar Spesial, 14000
+Roti Bakar Spesial, 14500
+Roti Bakar Telur, 10500
+Roti Bakar Telur, 8000
+Roti Bakar Telur, 9000
+Roti Bakar Telur, 9500
+Roti Bakar, 10000
+Roti Bakar, 10500
+Roti Bakar, 8000
+Roti Bakar, 8500
+Roti Bakar, 9000
+Roti Bakar, 9500
+Salad Asam Manis, 10000
+Salad Asam Manis, 10500
+Salad Asam Manis, 11500
+Salad Asam Manis, 12000
+Salad Asam Manis, 12500
+Salad Ati Ampela, 10000
+Salad Ati Ampela, 10500
+Salad Ati Ampela, 11000
+Salad Ati Ampela, 11500
+Salad Ati Ampela, 12000
+Salad Ayam, 22000
+Salad Ayam, 22500
+Salad Ayam, 23000
+Salad Ayam, 23500
+Salad Ayam, 24000
+Salad Ayam, 24500
+Salad Balado, 10500
+Salad Balado, 11000
+Salad Balado, 12000
+Salad Balado, 12500
+Salad Geprek, 10000
+Salad Geprek, 10500
+Salad Geprek, 11000
+Salad Geprek, 11500
+Salad Geprek, 12000
+Salad Geprek, 12500
+Salad Jumbo, 15000
+Salad Jumbo, 16000
+Salad Jumbo, 16500
+Salad Jumbo, 17000
+Salad Jumbo, 17500
+Salad Kecap, 10000
+Salad Kecap, 10500
+Salad Kecap, 11000
+Salad Kecap, 12000
+Salad Kecap, 12500
+Salad Keju, 13000
+Salad Keju, 13500
+Salad Keju, 14000
+Salad Keju, 15500
+Salad Komplit, 14000
+Salad Komplit, 14500
+Salad Komplit, 15500
+Salad Komplit, 16000
+Salad Komplit, 16500
+Salad Kornet, 10000
+Salad Kornet, 10500
+Salad Kornet, 11000
+Salad Kornet, 11500
+Salad Kornet, 12500
+Salad Lada Hitam, 10000
+Salad Lada Hitam, 10500
+Salad Lada Hitam, 11000
+Salad Lada Hitam, 11500
+Salad Lada Hitam, 12000
+Salad Lada Hitam, 12500
+Salad Mentega, 10000
+Salad Mentega, 10500
+Salad Mentega, 11000
+Salad Mentega, 11500
+Salad Mentega, 12000
+Salad Mentega, 12500
+Salad Mozarella, 13000
+Salad Mozarella, 13500
+Salad Mozarella, 14000
+Salad Mozarella, 14500
+Salad Mozarella, 15000
+Salad Mozarella, 15500
+Salad Original, 10000
+Salad Original, 10500
+Salad Original, 11000
+Salad Original, 11500
+Salad Original, 12000
+Salad Original, 12500
+Salad Pedas, 10000
+Salad Pedas, 12000
+Salad Pedas, 12500
+Salad Penyet, 10500
+Salad Penyet, 11000
+Salad Penyet, 12500
+Salad Rica-rica, 10000
+Salad Rica-rica, 10500
+Salad Rica-rica, 11000
+Salad Rica-rica, 11500
+Salad Rica-rica, 12000
+Salad Rica-rica, 12500
+Salad Sapi, 35000
+Salad Sapi, 35500
+Salad Sapi, 36500
+Salad Sapi, 37000
+Salad Sapi, 37500
+Salad Seafood, 29000
+Salad Seafood, 29500
+Salad Seafood, 30000
+Salad Seafood, 30500
+Salad Spesial, 14000
+Salad Spesial, 15000
+Salad Spesial, 15500
+Salad Spesial, 16000
+Salad Spesial, 16500
+Salad Telur, 10000
+Salad Telur, 10500
+Salad Telur, 11000
+Salad Telur, 12000
+Salad Telur, 12500
+Salad, 10000
+Salad, 10500
+Salad, 11000
+Salad, 11500
+Salad, 12000
+Salad, 12500
+Sandwich Asam Manis, 10000
+Sandwich Asam Manis, 10500
+Sandwich Asam Manis, 11500
+Sandwich Asam Manis, 12000
+Sandwich Asam Manis, 12500
+Sandwich Ati Ampela, 10000
+Sandwich Ati Ampela, 10500
+Sandwich Ati Ampela, 11500
+Sandwich Ati Ampela, 12000
+Sandwich Ati Ampela, 12500
+Sandwich Ayam, 22000
+Sandwich Ayam, 22500
+Sandwich Ayam, 23000
+Sandwich Ayam, 23500
+Sandwich Ayam, 24000
+Sandwich Ayam, 24500
+Sandwich Balado, 11000
+Sandwich Balado, 11500
+Sandwich Balado, 12000
+Sandwich Balado, 12500
+Sandwich Geprek, 10000
+Sandwich Geprek, 10500
+Sandwich Geprek, 11000
+Sandwich Geprek, 11500
+Sandwich Geprek, 12000
+Sandwich Geprek, 12500
+Sandwich Jumbo, 15500
+Sandwich Jumbo, 16000
+Sandwich Jumbo, 16500
+Sandwich Jumbo, 17000
+Sandwich Kecap, 10000
+Sandwich Kecap, 10500
+Sandwich Kecap, 11500
+Sandwich Keju, 13000
+Sandwich Keju, 13500
+Sandwich Keju, 14000
+Sandwich Keju, 14500
+Sandwich Komplit, 14500
+Sandwich Komplit, 15500
+Sandwich Komplit, 16000
+Sandwich Komplit, 16500
+Sandwich Kornet, 10000
+Sandwich Kornet, 10500
+Sandwich Kornet, 11000
+Sandwich Kornet, 11500
+Sandwich Kornet, 12000
+Sandwich Kornet, 12500
+Sandwich Lada Hitam, 10000
+Sandwich Lada Hitam, 10500
+Sandwich Lada Hitam, 11000
+Sandwich Lada Hitam, 11500
+Sandwich Lada Hitam, 12000
+Sandwich Lada Hitam, 12500
+Sandwich Mentega, 10000
+Sandwich Mentega, 10500
+Sandwich Mentega, 11000
+Sandwich Mentega, 12000
+Sandwich Mentega, 12500
+Sandwich Mozarella, 13000
+Sandwich Mozarella, 13500
+Sandwich Mozarella, 14000
+Sandwich Mozarella, 14500
+Sandwich Mozarella, 15000
+Sandwich Mozarella, 15500
+Sandwich Original, 10000
+Sandwich Original, 10500
+Sandwich Original, 11000
+Sandwich Original, 11500
+Sandwich Original, 12000
+Sandwich Pedas, 10000
+Sandwich Pedas, 10500
+Sandwich Pedas, 11500
+Sandwich Pedas, 12000
+Sandwich Penyet, 10500
+Sandwich Penyet, 11500
+Sandwich Penyet, 12500
+Sandwich Rica-rica, 10500
+Sandwich Rica-rica, 11000
+Sandwich Rica-rica, 11500
+Sandwich Rica-rica, 12000
+Sandwich Rica-rica, 12500
+Sandwich Sapi, 35000
+Sandwich Sapi, 35500
+Sandwich Sapi, 36000
+Sandwich Sapi, 36500
+Sandwich Sapi, 37500
+Sandwich Seafood, 28000
+Sandwich Seafood, 29000
+Sandwich Seafood, 29500
+Sandwich Seafood, 30500
+Sandwich Spesial, 14500
+Sandwich Spesial, 15000
+Sandwich Spesial, 15500
+Sandwich Spesial, 16000
+Sandwich Telur, 10000
+Sandwich Telur, 10500
+Sandwich Telur, 11000
+Sandwich Telur, 11500
+Sandwich Telur, 12500
+Sandwich, 10000
+Sandwich, 10500
+Sandwich, 11000
+Sandwich, 11500
+Sandwich, 12000
+Sandwich, 12500
+Sate Asam Manis, 10500
+Sate Asam Manis, 11000
+Sate Asam Manis, 11500
+Sate Asam Manis, 12000
+Sate Ati Ampela, 10000
+Sate Ati Ampela, 11000
+Sate Ati Ampela, 11500
+Sate Ati Ampela, 12000
+Sate Ayam, 22000
+Sate Ayam, 22500
+Sate Ayam, 23000
+Sate Ayam, 23500
+Sate Ayam, 24000
+Sate Ayam, 24500
+Sate Balado, 10000
+Sate Balado, 10500
+Sate Balado, 11500
+Sate Balado, 12000
+Sate Geprek, 10000
+Sate Geprek, 10500
+Sate Geprek, 11000
+Sate Geprek, 11500
+Sate Geprek, 12000
+Sate Geprek, 12500
+Sate Jumbo, 15000
+Sate Jumbo, 16500
+Sate Jumbo, 17000
+Sate Jumbo, 17500
+Sate Kecap, 10000
+Sate Kecap, 10500
+Sate Kecap, 11000
+Sate Kecap, 11500
+Sate Kecap, 12500
+Sate Keju, 13500
+Sate Keju, 14000
+Sate Keju, 15500
+Sate Komplit, 14000
+Sate Komplit, 14500
+Sate Komplit, 15000
+Sate Komplit, 15500
+Sate Komplit, 16500
+Sate Kornet, 10500
+Sate Kornet, 11000
+Sate Kornet, 11500
+Sate Kornet, 12000
+Sate Kornet, 12500
+Sate Lada Hitam, 10000
+Sate Lada Hitam, 10500
+Sate Lada Hitam, 11500
+Sate Lada Hitam, 12000
+Sate Lada Hitam, 12500
+Sate Mentega, 10500
+Sate Mentega, 11000
+Sate Mentega, 11500
+Sate Mentega, 12500
+Sate Mozarella, 13000
+Sate Mozarella, 13500
+Sate Mozarella, 14000
+Sate Mozarella, 14500
+Sate Mozarella, 15000
+Sate Mozarella, 15500
+Sate Original, 10000
+Sate Original, 10500
+Sate Original, 11000
+Sate Original, 11500
+Sate Original, 12000
+Sate Original, 12500
+Sate Pedas, 10000
+Sate Pedas, 10500
+Sate Pedas, 11500
+Sate Pedas, 12000
+Sate Penyet, 10000
+Sate Penyet, 10500
+Sate Penyet, 11000
+Sate Penyet, 11500
+Sate Penyet, 12000
+Sate Penyet, 12500
+Sate Rica-rica, 10000
+Sate Rica-rica, 11000
+Sate Rica-rica, 11500
+Sate Rica-rica, 12000
+Sate Sapi, 35000
+Sate Sapi, 35500
+Sate Sapi, 36000
+Sate Sapi, 36500
+Sate Sapi, 37000
+Sate Sapi, 37500
+Sate Seafood, 28000
+Sate Seafood, 28500
+Sate Seafood, 29000
+Sate Seafood, 29500
+Sate Spesial, 14500
+Sate Spesial, 15000
+Sate Spesial, 15500
+Sate Spesial, 16000
+Sate Telur, 10000
+Sate Telur, 11000
+Sate Telur, 11500
+Sate Telur, 12000
+Sate Telur, 12500
+Sate, 10000
+Sate, 10500
+Sate, 11000
+Sate, 11500
+Sate, 12000
+Sate, 12500
+Seblak Asam Manis, 10000
+Seblak Asam Manis, 10500
+Seblak Asam Manis, 11000
+Seblak Asam Manis, 11500
+Seblak Asam Manis, 12000
+Seblak Asam Manis, 12500
+Seblak Ati Ampela, 10000
+Seblak Ati Ampela, 10500
+Seblak Ati Ampela, 11000
+Seblak Ati Ampela, 11500
+Seblak Ati Ampela, 12000
+Seblak Ati Ampela, 12500
+Seblak Ayam, 22000
+Seblak Ayam, 22500
+Seblak Ayam, 23000
+Seblak Ayam, 23500
+Seblak Ayam, 24000
+Seblak Ayam, 24500
+Seblak Balado, 11000
+Seblak Balado, 11500
+Seblak Balado, 12000
+Seblak Balado, 12500
+Seblak Geprek, 10000
+Seblak Geprek, 10500
+Seblak Geprek, 11000
+Seblak Geprek, 11500
+Seblak Geprek, 12000
+Seblak Geprek, 12500
+Seblak Jumbo, 15000
+Seblak Jumbo, 16500
+Seblak Jumbo, 17000
+Seblak Jumbo, 17500
+Seblak Kecap, 10000
+Seblak Kecap, 11000
+Seblak Kecap, 11500
+Seblak Kecap, 12500
+Seblak Keju, 13500
+Seblak Keju, 14000
+Seblak Keju, 14500
+Seblak Keju, 15500
+Seblak Komplit, 14000
+Seblak Komplit, 14500
+Seblak Komplit, 15000
+Seblak Komplit, 15500
+Seblak Komplit, 16000
+Seblak Komplit, 16500
+Seblak Kornet, 10000
+Seblak Kornet, 10500
+Seblak Kornet, 11000
+Seblak Kornet, 11500
+Seblak Kornet, 12500
+Seblak Lada Hitam, 10000
+Seblak Lada Hitam, 10500
+Seblak Lada Hitam, 11000
+Seblak Lada Hitam, 11500
+Seblak Lada Hitam, 12000
+Seblak Lada Hitam, 12500
+Seblak Mentega, 10000
+Seblak Mentega, 10500
+Seblak Mentega, 11000
+Seblak Mentega, 11500
+Seblak Mentega, 12000
+Seblak Mozarella, 13000
+Seblak Mozarella, 14500
+Seblak Mozarella, 15000
+Seblak Mozarella, 15500
+Seblak Original, 10000
+Seblak Original, 12000
+Seblak Original, 12500
+Seblak Pedas, 10000
+Seblak Pedas, 11500
+Seblak Pedas, 12000
+Seblak Pedas, 12500
+Seblak Penyet, 10500
+Seblak Penyet, 11000
+Seblak Penyet, 11500
+Seblak Penyet, 12000
+Seblak Rica-rica, 10000
+Seblak Rica-rica, 11000
+Seblak Rica-rica, 12000
+Seblak Sapi, 35000
+Seblak Sapi, 35500
+Seblak Sapi, 36000
+Seblak Sapi, 36500
+Seblak Sapi, 37000
+Seblak Sapi, 37500
+Seblak Seafood, 28000
+Seblak Seafood, 29000
+Seblak Seafood, 29500
+Seblak Seafood, 30500
+Seblak Spesial, 14000
+Seblak Spesial, 14500
+Seblak Spesial, 15000
+Seblak Telur, 10000
+Seblak Telur, 10500
+Seblak Telur, 11000
+Seblak Telur, 11500
+Seblak Telur, 12000
+Seblak Telur, 12500
+Seblak, 10000
+Seblak, 10500
+Seblak, 11000
+Seblak, 11500
+Seblak, 12000
+Seblak, 12500
+Siomay Asam Manis, 8500
+Siomay Asam Manis, 9000
+Siomay Ati Ampela, 8000
+Siomay Ati Ampela, 8500
+Siomay Ati Ampela, 9000
+Siomay Ayam, 10500
+Siomay Ayam, 8000
+Siomay Ayam, 9000
+Siomay Ayam, 9500
+Siomay Balado, 10000
+Siomay Balado, 10500
+Siomay Balado, 8000
+Siomay Balado, 8500
+Siomay Balado, 9000
+Siomay Balado, 9500
+Siomay Geprek, 10000
+Siomay Geprek, 10500
+Siomay Geprek, 8000
+Siomay Geprek, 8500
+Siomay Geprek, 9000
+Siomay Jumbo, 13000
+Siomay Jumbo, 14000
+Siomay Jumbo, 14500
+Siomay Jumbo, 15000
+Siomay Jumbo, 15500
+Siomay Kecap, 10000
+Siomay Kecap, 10500
+Siomay Kecap, 8000
+Siomay Kecap, 8500
+Siomay Kecap, 9000
+Siomay Kecap, 9500
+Siomay Keju, 11000
+Siomay Keju, 12000
+Siomay Keju, 12500
+Siomay Keju, 13500
+Siomay Komplit, 12000
+Siomay Komplit, 12500
+Siomay Komplit, 13000
+Siomay Komplit, 13500
+Siomay Komplit, 14000
+Siomay Komplit, 14500
+Siomay Kornet, 10000
+Siomay Kornet, 10500
+Siomay Kornet, 8000
+Siomay Kornet, 9000
+Siomay Kornet, 9500
+Siomay Lada Hitam, 10000
+Siomay Lada Hitam, 10500
+Siomay Lada Hitam, 8000
+Siomay Lada Hitam, 9000
+Siomay Lada Hitam, 9500
+Siomay Mentega, 10000
+Siomay Mentega, 10500
+Siomay Mentega, 8000
+Siomay Mentega, 8500
+Siomay Mentega, 9000
+Siomay Mentega, 9500
+Siomay Mozarella, 11000
+Siomay Mozarella, 11500
+Siomay Mozarella, 12500
+Siomay Mozarella, 13000
+Siomay Mozarella, 13500
+Siomay Original, 10500
+Siomay Original, 8000
+Siomay Original, 8500
+Siomay Original, 9000
+Siomay Original, 9500
+Siomay Pedas, 10000
+Siomay Pedas, 10500
+Siomay Pedas, 8000
+Siomay Pedas, 8500
+Siomay Pedas, 9000
+Siomay Pedas, 9500
+Siomay Penyet, 10500
+Siomay Penyet, 8000
+Siomay Penyet, 8500
+Siomay Penyet, 9000
+Siomay Penyet, 9500
+Siomay Rica-rica, 10500
+Siomay Rica-rica, 8000
+Siomay Rica-rica, 8500
+Siomay Rica-rica, 9000
+Siomay Rica-rica, 9500
+Siomay Sapi, 10000
+Siomay Sapi, 10500
+Siomay Sapi, 8000
+Siomay Sapi, 8500
+Siomay Sapi, 9000
+Siomay Sapi, 9500
+Siomay Seafood, 10000
+Siomay Seafood, 10500
+Siomay Seafood, 8000
+Siomay Seafood, 8500
+Siomay Seafood, 9000
+Siomay Seafood, 9500
+Siomay Spesial, 12000
+Siomay Spesial, 12500
+Siomay Spesial, 13000
+Siomay Spesial, 13500
+Siomay Spesial, 14000
+Siomay Spesial, 14500
+Siomay Telur, 10000
+Siomay Telur, 8000
+Siomay Telur, 9000
+Siomay Telur, 9500
+Siomay, 10000
+Siomay, 10500
+Siomay, 8000
+Siomay, 8500
+Siomay, 9000
+Siomay, 9500
+Soda Cincau, 5000
+Soda Cincau, 5500
+Soda Cincau, 6000
+Soda Cincau, 6500
+Soda Cincau, 7000
+Soda Cincau, 7500
+Soda Gula Aren, 5000
+Soda Gula Aren, 5500
+Soda Gula Aren, 6000
+Soda Gula Aren, 6500
+Soda Gula Aren, 7000
+Soda Gula Aren, 7500
+Soda Jelly, 5000
+Soda Jelly, 5500
+Soda Jelly, 6000
+Soda Jelly, 6500
+Soda Jelly, 7000
+Soda Jelly, 7500
+Soda Large, 10000
+Soda Large, 10500
+Soda Large, 11000
+Soda Large, 11500
+Soda Large, 12000
+Soda Large, 12500
+Soda, 5000
+Soda, 5500
+Soda, 6000
+Soda, 6500
+Soda, 7000
+Soda, 7500
+Sop Asam Manis, 10000
+Sop Asam Manis, 10500
+Sop Asam Manis, 12000
+Sop Asam Manis, 12500
+Sop Ati Ampela, 10000
+Sop Ati Ampela, 10500
+Sop Ati Ampela, 11000
+Sop Ati Ampela, 11500
+Sop Ayam, 22000
+Sop Ayam, 22500
+Sop Ayam, 23500
+Sop Ayam, 24500
+Sop Balado, 10000
+Sop Balado, 10500
+Sop Balado, 11000
+Sop Balado, 11500
+Sop Balado, 12000
+Sop Balado, 12500
+Sop Geprek, 10000
+Sop Geprek, 11000
+Sop Geprek, 11500
+Sop Geprek, 12000
+Sop Geprek, 12500
+Sop Jumbo, 15000
+Sop Jumbo, 16000
+Sop Jumbo, 16500
+Sop Jumbo, 17000
+Sop Jumbo, 17500
+Sop Kecap, 10500
+Sop Kecap, 11000
+Sop Kecap, 11500
+Sop Kecap, 12500
+Sop Keju, 13500
+Sop Keju, 14000
+Sop Keju, 14500
+Sop Keju, 15000
+Sop Keju, 15500
+Sop Komplit, 14000
+Sop Komplit, 14500
+Sop Komplit, 15000
+Sop Komplit, 15500
+Sop Komplit, 16500
+Sop Kornet, 10000
+Sop Kornet, 11000
+Sop Kornet, 11500
+Sop Kornet, 12000
+Sop Kornet, 12500
+Sop Lada Hitam, 10500
+Sop Lada Hitam, 11000
+Sop Lada Hitam, 11500
+Sop Lada Hitam, 12500
+Sop Mentega, 10000
+Sop Mentega, 10500
+Sop Mentega, 11000
+Sop Mentega, 11500
+Sop Mentega, 12000
+Sop Mozarella, 13000
+Sop Mozarella, 13500
+Sop Mozarella, 14000
+Sop Mozarella, 14500
+Sop Mozarella, 15500
+Sop Original, 10000
+Sop Original, 10500
+Sop Original, 11000
+Sop Original, 11500
+Sop Original, 12000
+Sop Original, 12500
+Sop Pedas, 10500
+Sop Pedas, 11000
+Sop Pedas, 11500
+Sop Pedas, 12000
+Sop Penyet, 10000
+Sop Penyet, 11000
+Sop Penyet, 12000
+Sop Penyet, 12500
+Sop Rica-rica, 10000
+Sop Rica-rica, 10500
+Sop Rica-rica, 11000
+Sop Rica-rica, 11500
+Sop Rica-rica, 12000
+Sop Rica-rica, 12500
+Sop Sapi, 35000
+Sop Sapi, 36000
+Sop Sapi, 36500
+Sop Sapi, 37000
+Sop Sapi, 37500
+Sop Seafood, 28000
+Sop Seafood, 29000
+Sop Seafood, 29500
+Sop Seafood, 30000
+Sop Seafood, 30500
+Sop Spesial, 14000
+Sop Spesial, 14500
+Sop Spesial, 15500
+Sop Spesial, 16000
+Sop Spesial, 16500
+Sop Telur, 10500
+Sop Telur, 12500
+Sop, 10000
+Sop, 10500
+Sop, 11000
+Sop, 11500
+Sop, 12000
+Sop, 12500
+Sosis Bakar Asam Manis, 10000
+Sosis Bakar Asam Manis, 10500
+Sosis Bakar Asam Manis, 8000
+Sosis Bakar Asam Manis, 8500
+Sosis Bakar Asam Manis, 9000
+Sosis Bakar Ati Ampela, 10000
+Sosis Bakar Ati Ampela, 8000
+Sosis Bakar Ati Ampela, 8500
+Sosis Bakar Ati Ampela, 9000
+Sosis Bakar Ayam, 10000
+Sosis Bakar Ayam, 10500
+Sosis Bakar Ayam, 8000
+Sosis Bakar Ayam, 8500
+Sosis Bakar Ayam, 9000
+Sosis Bakar Ayam, 9500
+Sosis Bakar Balado, 10000
+Sosis Bakar Balado, 8000
+Sosis Bakar Balado, 8500
+Sosis Bakar Balado, 9000
+Sosis Bakar Geprek, 10000
+Sosis Bakar Geprek, 8500
+Sosis Bakar Geprek, 9000
+Sosis Bakar Geprek, 9500
+Sosis Bakar Jumbo, 13000
+Sosis Bakar Jumbo, 13500
+Sosis Bakar Jumbo, 14000
+Sosis Bakar Jumbo, 14500
+Sosis Bakar Jumbo, 15000
+Sosis Bakar Kecap, 10000
+Sosis Bakar Kecap, 10500
+Sosis Bakar Kecap, 8000
+Sosis Bakar Kecap, 8500
+Sosis Bakar Kecap, 9500
+Sosis Bakar Keju, 11000
+Sosis Bakar Keju, 11500
+Sosis Bakar Keju, 12000
+Sosis Bakar Keju, 12500
+Sosis Bakar Keju, 13000
+Sosis Bakar Keju, 13500
+Sosis Bakar Komplit, 12500
+Sosis Bakar Komplit, 13000
+Sosis Bakar Komplit, 14000
+Sosis Bakar Komplit, 14500
+Sosis Bakar Kornet, 10000
+Sosis Bakar Kornet, 10500
+Sosis Bakar Kornet, 8500
+Sosis Bakar Kornet, 9000
+Sosis Bakar Kornet, 9500
+Sosis Bakar Lada Hitam, 10000
+Sosis Bakar Lada Hitam, 8000
+Sosis Bakar Lada Hitam, 8500
+Sosis Bakar Lada Hitam, 9000
+Sosis Bakar Lada Hitam, 9500
+Sosis Bakar Mentega, 10000
+Sosis Bakar Mentega, 10500
+Sosis Bakar Mentega, 8500
+Sosis Bakar Mentega, 9000
+Sosis Bakar Mozarella, 11000
+Sosis Bakar Mozarella, 11500
+Sosis Bakar Mozarella, 12500
+Sosis Bakar Mozarella, 13000
+Sosis Bakar Mozarella, 13500
+Sosis Bakar Original, 10000
+Sosis Bakar Original, 10500
+Sosis Bakar Original, 8000
+Sosis Bakar Original, 8500
+Sosis Bakar Original, 9000
+Sosis Bakar Original, 9500
+Sosis Bakar Pedas, 10000
+Sosis Bakar Pedas, 10500
+Sosis Bakar Pedas, 8000
+Sosis Bakar Pedas, 8500
+Sosis Bakar Pedas, 9000
+Sosis Bakar Pedas, 9500
+Sosis Bakar Penyet, 10000
+Sosis Bakar Penyet, 10500
+Sosis Bakar Penyet, 8000
+Sosis Bakar Penyet, 8500
+Sosis Bakar Penyet, 9000
+Sosis Bakar Penyet, 9500
+Sosis Bakar Rica-rica, 10000
+Sosis Bakar Rica-rica, 10500
+Sosis Bakar Rica-rica, 8000
+Sosis Bakar Rica-rica, 8500
+Sosis Bakar Rica-rica, 9000
+Sosis Bakar Rica-rica, 9500
+Sosis Bakar Sapi, 10000
+Sosis Bakar Sapi, 10500
+Sosis Bakar Sapi, 8000
+Sosis Bakar Sapi, 8500
+Sosis Bakar Sapi, 9000
+Sosis Bakar Sapi, 9500
+Sosis Bakar Seafood, 10000
+Sosis Bakar Seafood, 8500
+Sosis Bakar Spesial, 12000
+Sosis Bakar Spesial, 12500
+Sosis Bakar Spesial, 13000
+Sosis Bakar Spesial, 13500
+Sosis Bakar Spesial, 14000
+Sosis Bakar Spesial, 14500
+Sosis Bakar Telur, 10500
+Sosis Bakar Telur, 8000
+Sosis Bakar Telur, 9000
+Sosis Bakar Telur, 9500
+Sosis Bakar, 10000
+Sosis Bakar, 10500
+Sosis Bakar, 8000
+Sosis Bakar, 8500
+Sosis Bakar, 9000
+Sosis Bakar, 9500
+Soto Asam Manis, 10000
+Soto Asam Manis, 10500
+Soto Asam Manis, 11000
+Soto Asam Manis, 11500
+Soto Asam Manis, 12000
+Soto Asam Manis, 12500
+Soto Ati Ampela, 10000
+Soto Ati Ampela, 10500
+Soto Ati Ampela, 11500
+Soto Ati Ampela, 12000
+Soto Ati Ampela, 12500
+Soto Ayam, 22000
+Soto Ayam, 22500
+Soto Ayam, 23500
+Soto Ayam, 24000
+Soto Balado, 10000
+Soto Balado, 11000
+Soto Balado, 11500
+Soto Balado, 12500
+Soto Geprek, 10500
+Soto Geprek, 11000
+Soto Geprek, 11500
+Soto Geprek, 12000
+Soto Geprek, 12500
+Soto Jumbo, 15000
+Soto Jumbo, 15500
+Soto Jumbo, 16500
+Soto Jumbo, 17500
+Soto Kecap, 10000
+Soto Kecap, 11000
+Soto Kecap, 11500
+Soto Kecap, 12000
+Soto Kecap, 12500
+Soto Keju, 13000
+Soto Keju, 13500
+Soto Keju, 14000
+Soto Keju, 14500
+Soto Keju, 15000
+Soto Keju, 15500
+Soto Komplit, 14000
+Soto Komplit, 15000
+Soto Komplit, 15500
+Soto Komplit, 16000
+Soto Komplit, 16500
+Soto Kornet, 10000
+Soto Kornet, 12000
+Soto Kornet, 12500
+Soto Lada Hitam, 10000
+Soto Lada Hitam, 10500
+Soto Lada Hitam, 11000
+Soto Lada Hitam, 11500
+Soto Lada Hitam, 12000
+Soto Mentega, 10500
+Soto Mentega, 11000
+Soto Mentega, 11500
+Soto Mentega, 12000
+Soto Mozarella, 13000
+Soto Mozarella, 13500
+Soto Mozarella, 14000
+Soto Mozarella, 15000
+Soto Mozarella, 15500
+Soto Original, 10000
+Soto Original, 10500
+Soto Original, 11000
+Soto Original, 12000
+Soto Original, 12500
+Soto Pedas, 10000
+Soto Pedas, 11000
+Soto Pedas, 11500
+Soto Pedas, 12000
+Soto Pedas, 12500
+Soto Penyet, 10000
+Soto Penyet, 10500
+Soto Penyet, 11000
+Soto Penyet, 11500
+Soto Penyet, 12000
+Soto Penyet, 12500
+Soto Rica-rica, 10500
+Soto Rica-rica, 11000
+Soto Rica-rica, 11500
+Soto Rica-rica, 12000
+Soto Rica-rica, 12500
+Soto Sapi, 35000
+Soto Sapi, 36000
+Soto Sapi, 37000
+Soto Sapi, 37500
+Soto Seafood, 28500
+Soto Seafood, 29000
+Soto Seafood, 29500
+Soto Seafood, 30000
+Soto Seafood, 30500
+Soto Spesial, 14000
+Soto Spesial, 14500
+Soto Spesial, 15000
+Soto Spesial, 15500
+Soto Spesial, 16500
+Soto Telur, 10000
+Soto Telur, 10500
+Soto Telur, 11000
+Soto Telur, 11500
+Soto Telur, 12500
+Soto, 10000
+Soto, 10500
+Soto, 11000
+Soto, 11500
+Soto, 12000
+Soto, 12500
+Spaghetti Asam Manis, 25000
+Spaghetti Asam Manis, 26000
+Spaghetti Asam Manis, 26500
+Spaghetti Asam Manis, 27000
+Spaghetti Asam Manis, 27500
+Spaghetti Ati Ampela, 25000
+Spaghetti Ati Ampela, 25500
+Spaghetti Ati Ampela, 26000
+Spaghetti Ati Ampela, 26500
+Spaghetti Ati Ampela, 27000
+Spaghetti Ati Ampela, 27500
+Spaghetti Ayam, 22000
+Spaghetti Ayam, 22500
+Spaghetti Ayam, 23000
+Spaghetti Ayam, 24000
+Spaghetti Balado, 25000
+Spaghetti Balado, 25500
+Spaghetti Balado, 26000
+Spaghetti Balado, 27000
+Spaghetti Balado, 27500
+Spaghetti Geprek, 25000
+Spaghetti Geprek, 25500
+Spaghetti Geprek, 26000
+Spaghetti Geprek, 26500
+Spaghetti Geprek, 27500
+Spaghetti Jumbo, 30000
+Spaghetti Jumbo, 30500
+Spaghetti Jumbo, 31000
+Spaghetti Jumbo, 31500
+Spaghetti Jumbo, 32000
+Spaghetti Jumbo, 32500
+Spaghetti Kecap, 25000
+Spaghetti Kecap, 25500
+Spaghetti Kecap, 26500
+Spaghetti Kecap, 27000
+Spaghetti Kecap, 27500
+Spaghetti Keju, 28000
+Spaghetti Keju, 28500
+Spaghetti Keju, 29500
+Spaghetti Keju, 30000
+Spaghetti Keju, 30500
+Spaghetti Komplit, 29000
+Spaghetti Komplit, 29500
+Spaghetti Komplit, 30000
+Spaghetti Komplit, 31000
+Spaghetti Komplit, 31500
+Spaghetti Kornet, 25000
+Spaghetti Kornet, 26000
+Spaghetti Kornet, 27500
+Spaghetti Lada Hitam, 26000
+Spaghetti Lada Hitam, 26500
+Spaghetti Lada Hitam, 27000
+Spaghetti Lada Hitam, 27500
+Spaghetti Mentega, 25000
+Spaghetti Mentega, 26000
+Spaghetti Mentega, 26500
+Spaghetti Mentega, 27500
+Spaghetti Mozarella, 28000
+Spaghetti Mozarella, 29000
+Spaghetti Mozarella, 29500
+Spaghetti Mozarella, 30000
+Spaghetti Original, 25000
+Spaghetti Original, 25500
+Spaghetti Original, 26000
+Spaghetti Original, 26500
+Spaghetti Original, 27000
+Spaghetti Pedas, 25000
+Spaghetti Pedas, 25500
+Spaghetti Pedas, 26000
+Spaghetti Pedas, 26500
+Spaghetti Pedas, 27000
+Spaghetti Pedas, 27500
+Spaghetti Penyet, 25000
+Spaghetti Penyet, 25500
+Spaghetti Penyet, 26000
+Spaghetti Penyet, 26500
+Spaghetti Penyet, 27000
+Spaghetti Penyet, 27500
+Spaghetti Rica-rica, 25000
+Spaghetti Rica-rica, 25500
+Spaghetti Rica-rica, 26000
+Spaghetti Rica-rica, 27000
+Spaghetti Rica-rica, 27500
+Spaghetti Sapi, 35000
+Spaghetti Sapi, 35500
+Spaghetti Sapi, 36000
+Spaghetti Sapi, 36500
+Spaghetti Sapi, 37000
+Spaghetti Sapi, 37500
+Spaghetti Seafood, 28500
+Spaghetti Seafood, 29500
+Spaghetti Seafood, 30000
+Spaghetti Seafood, 30500
+Spaghetti Spesial, 29000
+Spaghetti Spesial, 29500
+Spaghetti Spesial, 30000
+Spaghetti Spesial, 31000
+Spaghetti Spesial, 31500
+Spaghetti Telur, 25000
+Spaghetti Telur, 26000
+Spaghetti Telur, 26500
+Spaghetti Telur, 27000
+Spaghetti Telur, 27500
+Spaghetti, 25000
+Spaghetti, 25500
+Spaghetti, 26000
+Spaghetti, 26500
+Spaghetti, 27000
+Spaghetti, 27500
+Steak Asam Manis, 35500
+Steak Asam Manis, 36000
+Steak Asam Manis, 36500
+Steak Asam Manis, 37000
+Steak Asam Manis, 37500
+Steak Ati Ampela, 36000
+Steak Ati Ampela, 36500
+Steak Ati Ampela, 37000
+Steak Ati Ampela, 37500
+Steak Ayam, 35000
+Steak Ayam, 36000
+Steak Ayam, 37500
+Steak Balado, 35000
+Steak Balado, 35500
+Steak Balado, 36000
+Steak Balado, 36500
+Steak Geprek, 35000
+Steak Geprek, 35500
+Steak Geprek, 36000
+Steak Geprek, 37000
+Steak Geprek, 37500
+Steak Jumbo, 40000
+Steak Jumbo, 41000
+Steak Jumbo, 42000
+Steak Jumbo, 42500
+Steak Kecap, 35000
+Steak Kecap, 36000
+Steak Kecap, 37000
+Steak Kecap, 37500
+Steak Keju, 38500
+Steak Keju, 39000
+Steak Komplit, 39000
+Steak Komplit, 39500
+Steak Komplit, 40000
+Steak Komplit, 40500
+Steak Komplit, 41000
+Steak Komplit, 41500
+Steak Kornet, 35000
+Steak Kornet, 35500
+Steak Kornet, 36000
+Steak Kornet, 36500
+Steak Kornet, 37000
+Steak Lada Hitam, 35000
+Steak Lada Hitam, 35500
+Steak Lada Hitam, 36000
+Steak Lada Hitam, 36500
+Steak Lada Hitam, 37000
+Steak Lada Hitam, 37500
+Steak Mentega, 35000
+Steak Mentega, 35500
+Steak Mentega, 36000
+Steak Mentega, 36500
+Steak Mentega, 37000
+Steak Mentega, 37500
+Steak Mozarella, 38000
+Steak Mozarella, 38500
+Steak Mozarella, 39000
+Steak Mozarella, 39500
+Steak Mozarella, 40000
+Steak Mozarella, 40500
+Steak Original, 35000
+Steak Original, 35500
+Steak Original, 36000
+Steak Original, 36500
+Steak Original, 37000
+Steak Original, 37500
+Steak Pedas, 35000
+Steak Pedas, 35500
+Steak Pedas, 36500
+Steak Pedas, 37500
+Steak Penyet, 35000
+Steak Penyet, 35500
+Steak Penyet, 36000
+Steak Penyet, 36500
+Steak Penyet, 37000
+Steak Rica-rica, 35500
+Steak Rica-rica, 36000
+Steak Rica-rica, 37000
+Steak Rica-rica, 37500
+Steak Sapi, 35000
+Steak Sapi, 35500
+Steak Sapi, 36500
+Steak Sapi, 37000
+Steak Sapi, 37500
+Steak Seafood, 35000
+Steak Seafood, 35500
+Steak Seafood, 36000
+Steak Seafood, 37000
+Steak Spesial, 39500
+Steak Spesial, 40000
+Steak Spesial, 40500
+Steak Spesial, 41500
+Steak Telur, 35000
+Steak Telur, 36000
+Steak Telur, 36500
+Steak Telur, 37000
+Steak, 35000
+Steak, 35500
+Steak, 36000
+Steak, 36500
+Steak, 37000
+Steak, 37500
+Teh Hangat Cincau, 5000
+Teh Hangat Cincau, 5500
+Teh Hangat Cincau, 6000
+Teh Hangat Cincau, 6500
+Teh Hangat Cincau, 7000
+Teh Hangat Cincau, 7500
+Teh Hangat Gula Aren, 5000
+Teh Hangat Gula Aren, 5500
+Teh Hangat Gula Aren, 6000
+Teh Hangat Gula Aren, 6500
+Teh Hangat Gula Aren, 7000
+Teh Hangat Gula Aren, 7500
+Teh Hangat Jelly, 5000
+Teh Hangat Jelly, 5500
+Teh Hangat Jelly, 6000
+Teh Hangat Jelly, 6500
+Teh Hangat Jelly, 7000
+Teh Hangat Jelly, 7500
+Teh Hangat Large, 10000
+Teh Hangat Large, 10500
+Teh Hangat Large, 11000
+Teh Hangat Large, 11500
+Teh Hangat Large, 12000
+Teh Hangat Large, 12500
+Teh Hangat, 5000
+Teh Hangat, 5500
+Teh Hangat, 6000
+Teh Hangat, 6500
+Teh Hangat, 7000
+Teh Hangat, 7500
+Thai Tea Cincau, 5000
+Thai Tea Cincau, 5500
+Thai Tea Cincau, 6000
+Thai Tea Cincau, 6500
+Thai Tea Cincau, 7000
+Thai Tea Cincau, 7500
+Thai Tea Gula Aren, 5000
+Thai Tea Gula Aren, 5500
+Thai Tea Gula Aren, 6000
+Thai Tea Gula Aren, 6500
+Thai Tea Gula Aren, 7000
+Thai Tea Gula Aren, 7500
+Thai Tea Jelly, 5000
+Thai Tea Jelly, 5500
+Thai Tea Jelly, 6000
+Thai Tea Jelly, 6500
+Thai Tea Jelly, 7000
+Thai Tea Jelly, 7500
+Thai Tea Large, 10000
+Thai Tea Large, 10500
+Thai Tea Large, 11000
+Thai Tea Large, 11500
+Thai Tea Large, 12000
+Thai Tea Large, 12500
+Thai Tea, 5000
+Thai Tea, 5500
+Thai Tea, 6000
+Thai Tea, 6500
+Thai Tea, 7000
+Thai Tea, 7500
+Waffle Asam Manis, 10000
+Waffle Asam Manis, 10500
+Waffle Asam Manis, 8000
+Waffle Asam Manis, 8500
+Waffle Asam Manis, 9000
+Waffle Ati Ampela, 10000
+Waffle Ati Ampela, 10500
+Waffle Ati Ampela, 8500
+Waffle Ati Ampela, 9000
+Waffle Ati Ampela, 9500
+Waffle Ayam, 10000
+Waffle Ayam, 10500
+Waffle Ayam, 8500
+Waffle Ayam, 9000
+Waffle Ayam, 9500
+Waffle Balado, 10000
+Waffle Balado, 10500
+Waffle Balado, 8000
+Waffle Balado, 8500
+Waffle Balado, 9500
+Waffle Geprek, 10000
+Waffle Geprek, 10500
+Waffle Geprek, 8000
+Waffle Geprek, 8500
+Waffle Geprek, 9000
+Waffle Geprek, 9500
+Waffle Jumbo, 13000
+Waffle Jumbo, 13500
+Waffle Jumbo, 14500
+Waffle Jumbo, 15000
+Waffle Jumbo, 15500
+Waffle Kecap, 10000
+Waffle Kecap, 10500
+Waffle Kecap, 8000
+Waffle Kecap, 8500
+Waffle Kecap, 9000
+Waffle Kecap, 9500
+Waffle Keju, 11000
+Waffle Keju, 11500
+Waffle Keju, 13000
+Waffle Keju, 13500
+Waffle Komplit, 12000
+Waffle Komplit, 13000
+Waffle Komplit, 13500
+Waffle Komplit, 14000
+Waffle Komplit, 14500
+Waffle Kornet, 10000
+Waffle Kornet, 10500
+Waffle Kornet, 8500
+Waffle Kornet, 9000
+Waffle Kornet, 9500
+Waffle Lada Hitam, 10000
+Waffle Lada Hitam, 10500
+Waffle Lada Hitam, 8000
+Waffle Lada Hitam, 9000
+Waffle Mentega, 10000
+Waffle Mentega, 10500
+Waffle Mentega, 8000
+Waffle Mentega, 8500
+Waffle Mentega, 9000
+Waffle Mentega, 9500
+Waffle Mozarella, 11000
+Waffle Mozarella, 11500
+Waffle Mozarella, 12000
+Waffle Mozarella, 12500
+Waffle Mozarella, 13000
+Waffle Mozarella, 13500
+Waffle Original, 10000
+Waffle Original, 10500
+Waffle Original, 8000
+Waffle Original, 8500
+Waffle Original, 9000
+Waffle Pedas, 10000
+Waffle Pedas, 10500
+Waffle Pedas, 8500
+Waffle Pedas, 9000
+Waffle Penyet, 10000
+Waffle Penyet, 8000
+Waffle Penyet, 8500
+Waffle Penyet, 9000
+Waffle Penyet, 9500
+Waffle Rica-rica, 10500
+Waffle Rica-rica, 8000
+Waffle Rica-rica, 9000
+Waffle Sapi, 10000
+Waffle Sapi, 10500
+Waffle Sapi, 8000
+Waffle Sapi, 9500
+Waffle Seafood, 10000
+Waffle Seafood, 10500
+Waffle Seafood, 8000
+Waffle Seafood, 8500
+Waffle Spesial, 12000
+Waffle Spesial, 12500
+Waffle Spesial, 13000
+Waffle Spesial, 13500
+Waffle Spesial, 14000
+Waffle Telur, 10000
+Waffle Telur, 10500
+Waffle Telur, 8000
+Waffle Telur, 8500
+Waffle Telur, 9000
+Waffle Telur, 9500
+Waffle, 10000
+Waffle, 10500
+Waffle, 8000
+Waffle, 8500
+Waffle, 9000
+Waffle, 9500
